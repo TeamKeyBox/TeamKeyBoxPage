@@ -1,0 +1,53 @@
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.Header {
+    text-align: left;
+    font-size: 100px;
+    vertical-align: middle;
+}
+.MainText {
+    text-align: left;
+    font-size: 36px;
+}
+
+.Center {
+    position: relative;
+    top: 20%;
+}
+.Right {
+    position: absolute;
+    right: 0px;
+}
+
+@keyframes gwgw {
+    from {
+        transform: scale(0.97, 0.97);
+        background-color: white;
+    }
+    to {
+        transform: scale(1.03, 1.03);
+        background-color: white;
+    }
+}
+
+.Guwanguwan:hover {
+    animation: gwgw 0.4s ease-in-out 0s infinite alternate both;
+}
+
+@keyframes hwhov {
+    from {
+        background-color: black;
+        color: white;
+    }
+    to {
+        background-color: white;
+        color: black;
+    }
+}
+
+.HoverWhite:hover {
+    animation: hwhov 0.4s linear 0s 1 alternate both;
+}
