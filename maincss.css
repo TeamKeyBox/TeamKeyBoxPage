@@ -3,6 +3,27 @@ a {
     text-decoration: none;
 }
 
+button {
+    font-size: large;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+
+input[type="text"] {
+    background-color: black;
+    border: 2px solid blue;
+    color: white;
+    font-size: large;
+}
+
+input[type="password"] {
+    background-color: black;
+    border: 2px solid blue;
+    color: white;
+    font-size: large;
+}
+
 .Header {
     text-align: left;
     font-size: 100px;
