@@ -34,6 +34,13 @@ input[type="password"] {
     font-size: 36px;
 }
 
+.GameBox {
+    font-size: 20px;
+    background-image: linear-gradient(to right, rgb(20, 20, 20), rgb(0, 0, 0));
+    border: 2px solid rgb(50, 50, 50);
+    margin: 8px 8px 8px 8px;
+}
+
 .Center {
     position: relative;
     top: 20%;
