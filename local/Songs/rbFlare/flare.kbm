@@ -1,5 +1,6 @@
 meta("Flare", flare.wav, 0, 157,)
 subtitle("Rubyman",)
+official(3,"rbFlare","flare",3,-1,"en=\"Like a flare\";jp=\"”R‚¦·‚éƒtƒŒƒA‚Ì‚æ‚¤‚É\";",)
 offset(0.4,)
 diff(2, 5,){
 #HS 0.7

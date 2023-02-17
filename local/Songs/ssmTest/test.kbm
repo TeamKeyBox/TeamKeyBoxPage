@@ -1,5 +1,6 @@
 meta("Space Factory", SpaceFactory.wav, 0, 135,)
 subtitle("さしみ。",)
+official(3,"ssmTest","test",3,-1,"en=\"Factory in the space\";jp=\"宇宙空間の工場\";",)
 diff(2, 2,){
 11,01,10,00,00,;
 11,10,00,00,00;

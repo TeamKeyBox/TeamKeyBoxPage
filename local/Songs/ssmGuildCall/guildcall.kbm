@@ -1,5 +1,6 @@
 meta("Guild Call", abcdef.wav, 0, 128,)
 subtitle("さしみ。",)
+official(3,"ssmGuildCall","guildcall",1,-1,"en=\"Call from a guild\";jp=\"Guild's Call\";",)
 diff(2, 1,){
 0,0,0,0,0,;
 #Tutorial 1

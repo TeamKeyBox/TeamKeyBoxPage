@@ -1,5 +1,6 @@
 meta("さしみちゃんのかわいいコーナー！", hardstyle.wav, 0, 154,)
 subtitle("さしみ。",)
+official(3,"ssmkawaii","kawaii",3,-1,"en=\"NOT cute\";jp=\"全く可愛くない\";",)
 offset(0,)
 diff(2, 5,){
 10101011,0,10101011,0,0,;
