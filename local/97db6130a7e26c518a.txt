@@ -3,3 +3,7 @@ ssmkawaii/hardstyle.kbm
 ssmIfthen/ifthen.kbm
 ssmGuildCall/guildcall.kbm
 rbFlare/flare.kbm
+rbKeyPoint/keypoint.kbm
+rbteatb/teatb.kbm
+ssmGuildCallEndingRemix/guildcall.kbm
+ssmhuan/huan.kbm
