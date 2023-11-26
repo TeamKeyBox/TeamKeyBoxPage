@@ -1,6 +1,7 @@
 meta("意不然ブレイクエンド", ifthen.wav, 0, 170,)
 subtitle("さしみ。",)
 official(3,"ssmIfthen","ifthen",3,-1,"en=\"if (b) then break end\";jp=\"if (b) then break end\";",)
+internaltag("hidden_legacy",)
 diff(2, 4,){
 1010,0101,2004,00,00;
 1010,0101,2004,00,00;
