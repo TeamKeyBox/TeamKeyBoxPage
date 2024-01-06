@@ -7,3 +7,4 @@ rbKeyPoint/keypoint.kbm
 rbteatb/teatb.kbm
 ssmGuildCallEndingRemix/guildcall.kbm
 ssmhuan/huan.kbm
+ssmKakusenu/kakusenu.kbm
