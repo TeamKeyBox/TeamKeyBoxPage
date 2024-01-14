@@ -1,6 +1,6 @@
 meta("Swing and Dancing ver.1.05", swinganddancing.wav, 0, 120,)
 subtitle("Rubyman",)
-official(3,"rbSwingAndDancing","swinganddancing",1,-1,"en=\"7:5 Dance\";jp=\"7:5ÇÃóxÇË\";",)
+official(3,"rbSwingAndDancing","swinganddancing",1,-1,"en=\"7:5 Dance\";jp=\"7:5„ÅÆË∏ä„Çä\";",)
 cost(175,)
 offset(1.26,)
 diff(3, 6,){

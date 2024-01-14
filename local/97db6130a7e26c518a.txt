@@ -9,3 +9,4 @@ ssmGuildCallEndingRemix/guildcall.kbm
 ssmhuan/huan.kbm
 ssmKakusenu/kakusenu.kbm
 rbSwingAndDancing/swinganddancing.kbm
+ssmTutorial/tutorial.kbm
