@@ -10,3 +10,4 @@ ssmhuan/huan.kbm
 ssmKakusenu/kakusenu.kbm
 rbSwingAndDancing/swinganddancing.kbm
 ssmTutorial/tutorial.kbm
+zohka_metalepsis/metalepsis.kbm
