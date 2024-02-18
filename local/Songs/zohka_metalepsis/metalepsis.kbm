@@ -3,7 +3,7 @@ subtitle("Zohka",)
 official(3,"zohkaMetalepsis","metalepsis",3,-1,"en=\"Heard Something Cracking\";jp=\"崩れる音を聞いた\";",)
 internaltag("apr2024",)
 offset(0.07,)
-diff(3, 10,){
+diff(3, 6,){
 0,0,0,0,0,;
 2,0,0,0,0,;
 0,0,0,0,0,;
