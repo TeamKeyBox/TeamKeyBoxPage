@@ -1,6 +1,6 @@
 meta("Relationship Adjustment", rela.wav, 0, 300,)
 subtitle("さしみ。",)
-official(3,"ssmRelationship","relationship",3,-1,"en=\"Breaking off the relationship\";jp=\"「関係」の破壊\";",)
+official(3,"ssmRelationship",null,null,null,null,)
 lab(2, 3, "??? feat.???",)
 offset(1.59,)
 videooffset(0,)
