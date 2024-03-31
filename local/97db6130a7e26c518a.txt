@@ -14,3 +14,4 @@ zohka_metalepsis/metalepsis.kbm
 rbEndolphin/endolphin.kbm
 ssm5dim/5dim.kbm
 ssmRelationship/rela.kbm
+ssmMiso/misoramen.kbm
