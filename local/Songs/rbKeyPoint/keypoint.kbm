@@ -1,7 +1,8 @@
 meta("Key Point", keypoint.wav, 0, 146,)
 subtitle("Rubyman",)
 official(3,"rbKeypoint","keypoint",1,-1,"en=\"Key Pointer Exception\";jp=\"Key Pointer Exception\";",)
-diff(0, 3,){
+internaltag("keybox",)
+diff(0, 5,){
 2000,0,0,0,0,;
 4,2000,0,0,0,;
 0,4,2000,0,0,;

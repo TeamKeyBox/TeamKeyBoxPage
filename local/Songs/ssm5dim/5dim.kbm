@@ -1,6 +1,7 @@
 meta("5次の軌跡", 5dim.wav, 0, 160,)
 subtitle("さしみ。",)
 official(11,"ssm5dim","5dim",3,-1,"en=\"A Miracle At Five\";jp=\"5時の奇跡\";",)
+internaltag("keybox",)
 offset(0,)
 diff(4, 6,){
 #Measure 3 4

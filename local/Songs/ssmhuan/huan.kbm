@@ -1,6 +1,7 @@
 meta("不安ノ命ト選択ヲ", inotiwo.wav, 0, 320,)
 subtitle("さしみ。 feat.知声 & 足立レイ",)
 official(4 ,"ssmHuan","huannoinoti",1,-1,"en=\"Beat and Life\";jp=\"命と鼓動\";",)
+internaltag("keybox",)
 lab(1, 3, "??? feat.???",)
 diff(3, 5,){
 #HS 0.5

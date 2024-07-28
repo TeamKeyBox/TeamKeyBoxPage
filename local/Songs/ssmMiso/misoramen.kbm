@@ -1,6 +1,7 @@
 meta("[MISO RAMEN]の構想", miso.wav, 0, 224,)
 subtitle("さしみ。",)
 official(3,"ssmmisoramen","misoramen",3,-1,"en=\"Miso Ramen\";jp=\"味噌ラーメン\";",)
+internaltag("keybox",)
 offset(0,)
 diff(3, 5,){
 0,0,0,0,0,;
