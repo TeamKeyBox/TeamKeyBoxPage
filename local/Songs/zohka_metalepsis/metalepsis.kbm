@@ -1,6 +1,7 @@
 meta("Metalepsis", metalepsis.wav, 0, 87.9,)
 subtitle("Zohka",)
 official(3,"zohkaMetalepsis","metalepsis",3,-1,"en=\"Heard Something Cracking\";jp=\"崩れる音を聞いた\";",)
+demostart(52.4,)
 internaltag("apr2024",)
 license("cc_by_nc_sa",)
 offset(0.07,)

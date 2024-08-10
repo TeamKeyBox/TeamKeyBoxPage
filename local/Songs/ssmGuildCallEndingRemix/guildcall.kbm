@@ -1,6 +1,7 @@
 meta("Guild Call ～Ending Remix～", guildcall.wav, 0, 128,)
 subtitle("さしみ。",)
 official(11,"ssmguildcallEndingRemix",null,null,null,null,)
+demostart(67.475,)
 diff(2, 5,){
 0,0,0,0,0,;
 0,0,0,0,0,;

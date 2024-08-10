@@ -2,6 +2,7 @@ meta("The End and The Beginning", teatb.wav, 0, 202.2,)
 subtitle("Rubyman",)
 official(11,"rbteatb",null,null,null,null,)
 offset(0.32,)
+demostart(48.425,)
 diff(2, 4,){
 01,0,00000111,0,0,;
 #GogoStart

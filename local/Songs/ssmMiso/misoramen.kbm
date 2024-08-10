@@ -3,6 +3,7 @@ subtitle("さしみ。",)
 official(3,"ssmmisoramen","misoramen",3,-1,"en=\"Miso Ramen\";jp=\"味噌ラーメン\";",)
 internaltag("keybox",)
 offset(0,)
+demostart(36.425,)
 diff(3, 5,){
 0,0,0,0,0,;
 0001,000000000001,0001,0,0,;

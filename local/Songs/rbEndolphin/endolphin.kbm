@@ -2,6 +2,7 @@ meta("Endolphin", endolphin.wav, 0, 155,)
 subtitle("Rubyman",)
 official(11,"rbendolphin",null,null,null,null,)
 offset(1.433,)
+demostart(52.525,)
 diff(3, 5,){
 0,0,0,0,0,;
 0,0,2,0,0,;

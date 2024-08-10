@@ -2,6 +2,7 @@ meta("麻痺したロボット", chrom.wav, 0, 150,)
 subtitle("さしみ。 feat.唄音ウタ",)
 official(3,"ssmNumbRobot",null,null,null,null,)
 offset(-0.01,)
+demostart(36.725,)
 diff(1, 6,){
 0,0,0,0,0,;
 1111,0,0,0,0,;

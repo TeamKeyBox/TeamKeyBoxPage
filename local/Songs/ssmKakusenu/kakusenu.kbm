@@ -2,6 +2,7 @@ meta("隠セヌ神秘ノ力", kakusenu.wav, 0, 380,)
 subtitle("さしみ。",)
 official(3,"ssmkakusenu","kakusenu",3,-1,"en=\"Mythical Energy\";jp=\"神秘ノ力\";",)
 offset(-0.01,)
+demostart(42.925,)
 diff(3, 4,){
 #HS 0.5
 #Measure 8 4
