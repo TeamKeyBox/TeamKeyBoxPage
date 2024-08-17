@@ -1,0 +1,676 @@
+* {
+    color: white;
+    font-size: larger;
+    font-family: 'PixelMplus10', Arial;
+    word-spacing: 16px;
+}
+
+body {
+    background-color: #222966;
+    padding: 0;
+    margin: 0;
+}
+
+input {
+    background-color: #222944;
+    color: white;
+}
+
+input:disabled {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+button {
+    background-color: rgba(59, 141, 179, 0.8);
+    color: white;
+    border: white solid 4px;
+    box-sizing: border-box;
+}
+button:enabled:hover {
+    background-color: rgba(127, 176, 199, 1);
+}
+button:enabled:active {
+    background-color: rgb(54, 101, 122);
+}
+button:disabled {
+    background-color: rgba(53, 118, 148, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.topmenu {
+    position: fixed;
+    width: 100%;
+    background-color: #333333;
+    padding: 10px;
+    height: 9%;
+    border: 1px solid cyan;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    top: 0;
+}
+
+.linkmenu {
+    position: absolute;
+    top: 50%;
+    background-color: #444444;
+    border: 1px cyan solid;
+    width: 50%;
+    left: 25%;
+    height: 100px;
+    opacity: 0.3;
+    transition-duration: 0.3s;
+    transition-timing-function: cubic-bezier(1, 0, 0, 1);
+    transform: translateY(-70px);
+    grid: 2em / auto-flow calc(1 / 4 * 100%);
+    display: grid;
+}
+
+.linkmenu:hover {
+    opacity: 1;
+}
+
+.linkmenu > * {
+    color: white;
+    text-decoration: transparent;
+    font-size: 100%;
+    grid-row: 1 / 3;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    border: 1px solid #ffffff;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+
+.linkmenu > .current {
+    background-color: #22aaff;
+    color: black;
+}
+
+.linkmenu > :not(.current):hover {
+    background-color: #063366;
+    color: cyan;
+}
+
+.sparkling {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 0 0 0;
+    background-color: rgb(200, 200, 225);
+    mix-blend-mode: overlay;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+
+@keyframes maintransion {
+    from {
+        opacity: 0;
+        transform: translateX(200px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes maintransion_reversed {
+    from {
+        opacity: 0;
+        transform: translateX(-200px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes rotatransion {
+    from {
+        opacity: 0;
+        transform: rotateZ(180deg);
+    }
+    to {
+        transform: rotateZ(0deg);
+    }
+}
+
+@keyframes longblink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes clippingInHorizontal {
+    from {
+        transform: translateX(-200%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+.transion_main {
+    animation-name: maintransion;
+    animation-timing-function: cubic-bezier(1, 0, 0, 1);
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+}
+
+.transion_main.right_sort {
+    animation-name: maintransion_reversed;
+}
+
+.transion_clippingHorizontal {
+    animation-name: clippingInHorizontal;
+    animation-timing-function: cubic-bezier(1, 0, 0, 1);
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-delay: 1s;
+}
+
+.kuronuri {
+    width: max-content;
+    height: auto;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    font-size: 1em;
+    display: inline;
+    overflow-wrap: anywhere;
+}
+* > .kuronuri {
+    overflow-wrap: anywhere;
+}
+.kuronuri::selection {
+    color: white;
+    background-color: white;
+}
+
+.transion_rotate {
+    animation-name: rotatransion;
+    animation-timing-function: cubic-bezier(0, 1, 0, 1);
+    animation-duration: 3s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+}
+
+.backpanel {
+    background-color: black;
+    width: fit-content;
+}
+
+.backpanel a {
+    text-decoration-color: white;
+    font-size: inherit !important;
+}
+
+.backpanel a:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.background_box {
+    width: 100%;
+    overflow: hidden;
+}
+
+.background_box.right_sort > img + img {
+    width: 50%;
+    left: 0%;
+}
+
+.background_box > img {
+    width: 100%;
+    filter: blur(10px);
+    user-select: none;
+}
+.background_box > img + img {
+    width: 50%;
+    left: 50%;
+    filter: unset;
+    top: 0px;
+    position: absolute;
+    transform: scale(1.5);
+}
+
+
+@keyframes imgappear {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+img:not(.topmenu *) {
+    animation: imgappear 1s ease-in-out 0s 1 both;
+}
+
+.maincontent {
+    position: absolute;
+    top: calc(9% + 150px);
+    margin: 50px;
+    display: block;
+    line-height: 140%;
+}
+
+.maincontent.nopos {
+    top: 0px;
+}
+
+a {
+    color: cyan;
+}
+
+a:hover {
+    color: rgb(150, 100, 255);
+}
+
+.maincontent a {
+    font-size: 0.5em;
+}
+
+.right_sort:not(.background_box > img + img) {
+    text-align: right;
+    position: absolute;
+    margin-left: auto;
+}
+
+.thumbnail {
+    position: relative;
+    top: 0;
+    grid-row: 1 / 3;
+    display: inline;
+    border: white 2px solid;
+    
+}
+
+.thumbnail_title {
+    position: relative;
+    color: white;
+    background-color: rgba(30, 30, 30, 0.8);
+    width: 192px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    font-size: 0.2em;
+    bottom: 32px;
+    left: 2px;
+    text-align: center;
+    word-spacing: 5px;
+}
+
+a:has(.thumbnail):hover {
+    transform: scale(1.5,1.5);
+    z-index: 2;
+}
+a:has(.thumbnail) {
+    transition-duration: 0.3s;
+    transition-timing-function: cubic-bezier(0, 0.5, 0, 1);
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.thumbnail_panel:has(a:hover) a:not(:hover) {
+    filter: blur(10px);
+}
+
+.thumbnail_panel {
+    padding-left: 10px;
+    grid: 130px / auto-flow 220px;
+    display: grid;
+}
+
+.thumbnail_banner {
+    position: relative;
+    color: white;
+    background-color: rgba(30, 60, 100, 1);
+    width: 192px;
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    font-size: 0.2em;
+    top: -140px;
+    left: 2px;
+    text-align: center;
+    word-spacing: 5px;
+    transform: translateX(-80px) rotateZ(-45deg) translateY(10px);
+}
+
+.thumbnail_description {
+    position: relative;
+    color: white;
+    background-color: rgba(30, 60, 100, 0.4);
+    opacity: 0;
+    width: 192px;
+    height: 78px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    font-size: 0.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -140px;
+    left: 2px;
+    text-align: left;
+    word-spacing: 5px;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0, 0.5, 0, 1);
+    transform: translateY(50px);
+    overflow: hidden;
+    filter: blur(10px);
+    text-decoration: none;
+}
+
+a:has(.thumbnail):hover > .thumbnail_description {
+    opacity: 100%;
+    transform: translateY(0px);
+    filter: initial;
+}
+
+.mainimage {
+    width: 90%;
+}
+
+.footer_text {
+    font-family: "HGP創英角ｺﾞｼｯｸUB", Arial;
+    font-size: 14px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.story {
+
+    color: white;
+    font-size: 0.8em;
+    line-height: 50px;
+}
+
+.story .section {
+    background-color: white;
+    color: #222966;
+    width: 95%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 8px 8px 8px 8px;
+    font-size: 2em;
+}
+
+a:has(.character) {
+    text-decoration: none;
+    width: fit-content;
+    display: inline-block;
+}
+
+.character {
+    border: 8px solid white;
+    z-index: 1;
+    width: 150px;
+    height: 250px;
+    transition: 1s cubic-bezier(0, 1, 0, 1);
+    margin: 20px 20px 20px 20px;
+    position: relative;
+}
+
+.character .cover {
+    transform: rotate(-30deg);
+    width: 150px;
+    height: 250px;
+    border: white 4px solid;
+    position: relative;
+    top: -100%;
+}
+
+.character div:has(img) {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.character .character_name {
+    transform: rotate(90deg);
+    color: black;
+    opacity: 50%;
+    position: relative;
+    top: -180px;
+    left: -50px;
+    -webkit-text-stroke: 1px white;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.character .character_name2 {
+    font-size: 0.8em;
+    top: 100%;
+    position: absolute;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.character:hover .character_name {
+    opacity: 100%;
+}
+
+.character img {
+    animation: blink 0.5s cubic-bezier(0, 1, 0, 1) 0.5s 1 both alternate;
+    image-rendering: pixelated;
+    object-fit: none;
+    width: 100%;
+    height: 100%;
+    transition: 1s cubic-bezier(0, 1, 0, 1);
+}
+.character.secret img {
+    filter: brightness(0);
+}
+
+.character:hover img {
+    transform: scale(1.1);
+}
+
+a:has(.character):hover > .character {
+    transform: scale(1.1);
+}
+
+.bio {
+    width: 100%;
+    height: 200px;
+    position: relative;
+    top: -50px;
+}
+
+.bio ~ * {
+    position: relative;
+    top: -60px;
+}
+
+.bio .bioimage {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.bio .bioimage img {
+    object-fit: none;
+    image-rendering: pixelated;
+    user-select: none;
+    z-index: -10;
+}
+
+.bio .bioimage img:first-child {
+    scale: 2;
+    filter: blur(3px);
+}
+
+.bio h1 {
+    text-align: right;
+    margin-left: auto;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 100px;
+    position: relative;
+    font-weight: normal;
+    width: max-content;
+    overflow: hidden;
+    top: 50px;
+}
+
+.bio h1 div {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    top: 100px;
+    position: absolute;
+    animation: bio_name 1s cubic-bezier(1, 0, 0, 1) 0s 1 alternate both;
+}
+
+.localuser {
+    width: 320px;
+    height: 100%;
+    position: absolute;
+    background-color: rgb(10, 180, 10);
+    top: 0px;
+    right: 0px;
+    /*border: 4px solid white;
+    box-sizing: border-box;*/
+}
+
+.localuser button {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: block;
+    background-color: transparent;
+}
+.localuser button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+.localuser button:active {
+    background-color: rgba(30, 30, 30, 0.4);
+}
+
+.dialog {
+    background-color: rgba(0, 0, 0, 0.4);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    top: 0px;
+    left: 0px;
+    display: grid;
+    justify-items: center;
+    align-content: center;
+}
+
+.dialog.hidden, .dialog .hidden {
+    display: none;
+}
+
+.dialog div {
+    background-color: rgba(50, 100, 100, 0.8);
+    position: relative;
+    width: max-content;
+    height: max-content;
+}
+
+@keyframes bio_name {
+    from {
+        top: 0px;
+    }
+    to {
+        top: 100px;
+    }
+}
+
+@keyframes blink {
+    from {
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    20% {
+        opacity: 0;
+    }
+    30% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    60% {
+        opacity: 0;
+    }
+    70% {
+        opacity: 1;
+    }
+    80% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 1;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-device-width: 700px) {
+    .mobile1 {
+        top: calc(9% + 400px) !important;
+    }
+    .mobile2 {
+        top: calc(9% + 480px) !important;
+    }
+    .mobile3 {
+        top: calc(9% + 500px) !important;
+    }
+    .mobile4 {
+        top: calc(9% + 600px) !important;
+    }
+    .mobile5 {
+        top: calc(9% + 700px) !important;
+    }
+    .mobile6 {
+        top: calc(9% + 800px) !important;
+    }
+    .linkmenu {
+        opacity: 1;
+    }
+    .mainimage {
+        width: 600px;
+    }
+    body {
+        width: 100vw !important;
+    }
+    .kuronuri {
+        display: none;
+    }
+}

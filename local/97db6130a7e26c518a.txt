@@ -16,3 +16,4 @@ ssm5dim/5dim.kbm
 ssmRelationship/rela.kbm
 ssmMiso/misoramen.kbm
 ssmNumbRobot/numb.kbm
+ssmShinrai/shinrai.kbm

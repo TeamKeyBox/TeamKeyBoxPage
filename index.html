@@ -1,15 +1,83 @@
-<!DOCTYPE html>
-<head>
-    <title>KeyBox</title>
+<html>
+    <head>
+        <title>KeyBox</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="icon" type="image/png" href="logo_32px.png" sizes="32x32">
+    </head>
+    <body style="overflow: hidden auto;">
 
-    <meta charset="UTF-8">
-    <meta name="theme-color" content="#1111ff">
-    <meta name="description" content="ここに居場所はねえよ https://gamejolt.com/games/teamkeybox_kb/725094">
-    <link rel="stylesheet" href="./maincss.css" type="text/css">
-    <link rel="icon" href="./images/logo.png">
-</head>
-<body style="background-color: rgb(0, 0, 10); color: white; margin: 0px;">
+        <script src="gj-js-api.js"></script>
+        <script src="gjindex.js"></script>
 
-	ここに居場所はねえよ
+        <div class="background_box" style="height: 400px; aspect-ratio: 128 / 72; position: absolute; top: calc(9% + 100px);">
+            <img src="./backgrounds/2024_7_1_21_5_5_477.png">
+            <img src="./backgrounds/2024_7_1_21_5_5_477.png">
+        </div>
 
-</body>
+        <div style="height: max-content;">
+            <div class="transion_main maincontent backpanel" style="display: block; font-size: 2em; top: 200px; position: relative;">「箱」を開けるための「鍵」が必要だ。</div>
+            <div class="transion_main maincontent backpanel" style="display: block; animation-delay: 0.1s; top: 160px; position: relative;">「鍵盤」とも言えるかもしれない。音楽を奏でる「箱」も悪くはないはずだ。</div>
+            <div class="transion_main maincontent backpanel" style="display: block; animation-delay: 0.2s; top: 120px; left: 10px; position: relative;">今日は何を演奏しよう?</div>
+            <div class="transion_main maincontent backpanel" style="display: block; animation-delay: 0.3s; top: 80px; left: 50px; position: relative; font-size: 0.9em;">異世界に住む、ちょっと不思議な「箱」がもたらしたもの。</div>
+            <div class="transion_main maincontent backpanel" style="display: block; animation-delay: 0.4s; top: 40px; left: 50px; position: relative; font-size: 0.9em;">そして、そこから派生したもの。</div>
+        </div>
+
+        <div class="background_box right_sort" style="height: 350px; aspect-ratio: 128 / 72; position: relative; top: 100px;">
+            <img src="./backgrounds/2024_7_2_21_37_9_237.png">
+            <img src="./backgrounds/2024_7_2_21_37_9_237.png">
+        </div>
+
+        <div style="position: relative; display: block; top: -400px; width: 100%; text-align: right;">
+            <div class="transion_main maincontent backpanel right_sort" style="display: block; font-size: 2em; animation-delay: 0.3s; top: 160px; position: relative;">まずは自由を求めに行こう。</div>
+            <div class="transion_main maincontent backpanel right_sort" style="display: block; animation-delay: 0.4s; top: 120px; position: relative;">どんな姿でもいい。自由に僕を装飾してみよう。</div>
+            <div class="transion_main maincontent backpanel right_sort" style="display: block; animation-delay: 0.5s; top: 80px; right: 10px; position: relative;">次に自由に曲を選んでみよう。</div>
+            <div class="transion_main maincontent backpanel right_sort" style="display: block; animation-delay: 0.6s; top: 40px; right: 50px; position: relative; font-size: 0.9em;">時には決められないこともある。そんな時は誰かが決めてくれるだろう。</div>
+        </div>
+
+        <div class="footer_text" style="position: relative; top: 80px; padding-bottom: 20px;">
+            このゲームはフィクションです。<br>
+            実在する人物、団体、組織、国家、世界、化学物質、常識、生物、歴史、インターネットとは一切関係はありません。
+        </div>
+
+        <div class="topmenu">
+            <img src="./NewLogo.png" style="aspect-ratio: 27 / 8; height: 100%; image-rendering: pixelated;">
+
+            <div class="linkmenu">
+                <a href="index.html" style="grid-column: 1 / 2;" class="current">
+                    Overview
+                </a>
+                <a href="gameplay.html" style="grid-column: 2 / 3;">
+                    Gameplay
+                </a>
+                <a href="discord.html" style="grid-column: 3 / 4;">
+                    Discord
+                </a>
+                <a href="story.html" style="grid-column: 4 / 5;">
+                    StoryMode
+                </a>
+            </div>
+
+            <div class="localuser">
+                <button id="user_loginbutton" onclick="ShowLoginDialog();">Login</button>
+                <button id="user_menubutton" style="display: none;" onclick="">
+                    
+                </button>
+            </div>
+        </div>
+
+        <div class="dialog hidden" id="dialog">
+            <div id="dialog_login" class="hidden">
+                ログイン
+                <button style="text-align: right; margin: auto; position: absolute; right: 0px;" onclick="CloseDialog();">X</button>
+                <form name="login">
+                    ユーザー名<br>
+                    <input name="user" type="text" placeholder="username"><br>
+                    トークン<br>
+                    <input name="token" type="password" placeholder="password"><br>
+                    <button name="loginbutton" style="width: 99%;" onclick="TryLogin();" type="button">Login</button>
+                </form>
+            </div>
+        </div>
+
+    </body>
+</html>

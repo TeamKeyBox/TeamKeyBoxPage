@@ -1,0 +1,176 @@
+<html>
+    <head>
+        <title>KeyBox</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="icon" type="image/png" href="logo_32px.png" sizes="32x32">
+    </head>
+    <body style="overflow: hidden auto;">
+        
+        <script src="gj-js-api.js"></script>
+        <script src="gjindex.js"></script>
+
+        <div class="story transion_main" style="text-align: center; width: 100%; position: absolute; top: calc(9% + 100px);">
+            退屈ながらも、平和な暮らしをしていた。<br>
+            特に事件やら騒動やらは起きないし、それはそれでよかったかもしれない。<br>
+            しかし、彼にはそれが満足ではなかったようで、<br>
+            次第に承認欲求を満たしたいと、思うようになっていった。<br>
+            ...「いつからか」暮らしているうちに。<br>
+            <div class="section">KeyBoxerと6体の箱</div>
+
+            <div style="padding-left: 50px; padding-right: 50px;">
+                <a href="./characters/keyboxer.html">
+                    <div class="character">
+                        <div>
+                            <img src="./characters/keyboxer.png" style="transform: scale(1.5);">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            KeyBoxer
+                        </div>
+                        <div class="character_name2">
+                            KeyBoxer
+                        </div>
+                    </div>
+                </a>
+
+                <a href="./characters/keyboxer.html">
+                    <div class="character">
+                        <div>
+                            <img src="./characters/groaden.png" style="object-position: 0px 0px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Groaden
+                        </div>
+                        <div class="character_name2">
+                            Groaden
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="./characters/keyboxer.html">
+                    <div class="character secret">
+                        <div>
+                            <img src="./characters/tanel.png" style="object-position: 0px 0px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Tanel
+                        </div>
+                        <div class="character_name2">
+                            Tanel
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="./characters/keyboxer.html">
+                    <div class="character secret">
+                        <div>
+                            <img src="./characters/meden.png" style="object-position: 0px -10px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Meden
+                        </div>
+                        <div class="character_name2">
+                            Meden
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="./characters/keyboxer.html">
+                    <div class="character secret">
+                        <div>
+                            <img src="./characters/amprel.png" style="object-position: 0px 10px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Amprel
+                        </div>
+                        <div class="character_name2">
+                            Amprel
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="./characters/keyboxer.html">
+                    <div class="character secret">
+                        <div>
+                            <img src="./characters/reklan.png" style="object-position: 0px 10px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Reklan
+                        </div>
+                        <div class="character_name2">
+                            Reklan
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="./characters/keyboxer.html">
+                    <div class="character secret">
+                        <div>
+                            <img src="./characters/centraldread.png" style="object-position: 0px 0px;">
+                            <div class="cover"></div>
+                        </div>
+                        <div class="character_name">
+                            Central Dread β
+                        </div>
+                        <div class="character_name2">
+                            Central Dread β
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+
+        <div class="footer_text" style="position: fixed; bottom: 0px; height: fit-content; width: 100%; opacity: 50%; background-color: rgba(0, 0, 0, 0.5); padding-top: 10px; padding-bottom: 10px;">
+            このゲームはフィクションです。<br>
+            実在する人物、団体、組織、国家、世界、化学物質、常識、生物、歴史、インターネットとは一切関係はありません。
+        </div>
+
+        <div class="topmenu">
+            <img src="./NewLogo.png" style="aspect-ratio: 27 / 8; height: 100%; image-rendering: pixelated;">
+
+            <div class="linkmenu">
+                <a href="index.html" style="grid-column: 1 / 2;">
+                    Overview
+                </a>
+                <a href="gameplay.html" style="grid-column: 2 / 3;">
+                    Gameplay
+                </a>
+                <a href="discord.html" style="grid-column: 3 / 4;">
+                    Discord
+                </a>
+                <a href="story.html" style="grid-column: 4 / 5;" class="current">
+                    StoryMode
+                </a>
+            </div>
+            <div class="localuser">
+                <button id="user_loginbutton" onclick="ShowLoginDialog();">Login</button>
+                <button id="user_menubutton" style="display: none;" onclick="">
+                    
+                </button>
+            </div>
+        </div>
+
+        
+        <div class="dialog hidden" id="dialog">
+            <div id="dialog_login" class="hidden">
+                ログイン
+                <button style="text-align: right; margin: auto; position: absolute; right: 0px;" onclick="CloseDialog();">X</button>
+                <form name="login">
+                    ユーザー名<br>
+                    <input name="user" type="text" placeholder="username"><br>
+                    トークン<br>
+                    <input name="token" type="password" placeholder="password"><br>
+                    <button name="loginbutton" style="width: 99%;" onclick="TryLogin();" type="button">Login</button>
+                </form>
+            </div>
+        </div>
+
+    </body>
+</html>
