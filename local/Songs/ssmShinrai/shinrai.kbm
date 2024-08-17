@@ -1,4 +1,4 @@
-meta("シンライ", sinrai_short.ogg, 0, 300,)
+meta("シンライ", sinrai_short.wav, 0, 300,)
 subtitle("さしみ。 feat.ミル(UTAU)",)
 official(3,"ssmShinrai",null,null,null,null,)
 offset(1.59,)
