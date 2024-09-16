@@ -17,3 +17,5 @@ ssmRelationship/rela.kbm
 ssmMiso/misoramen.kbm
 ssmNumbRobot/numb.kbm
 ssmShinrai/shinrai.kbm
+ssmakuyaku/akuyaku.kbm
+ssmIdola/idola.kbm

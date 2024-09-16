@@ -1,9 +1,10 @@
 meta("意不然ブレイクエンド", ifthen.wav, 0, 170,)
+title_hiragana("いふぜんぶれいくえんど",)
 subtitle("さしみ。",)
 official(3,"ssmIfthen","ifthen",3,-1,"en=\"if (b) then break end\";jp=\"if (b) then break end\";",)
 internaltag("hidden_legacy",)
 demostart(14.875,)
-diff(2, 4,){
+diff(2, 4, "さしみ。",){
 1010,0101,2004,00,00;
 1010,0101,2004,00,00;
 #Measure 9 16

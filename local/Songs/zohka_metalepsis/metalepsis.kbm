@@ -5,7 +5,7 @@ demostart(52.4,)
 internaltag("apr2024",)
 license("cc_by_nc_sa",)
 offset(0.07,)
-diff(3, 6,){
+diff(3, 6, "さしみ。",){
 0,0,0,0,0,;
 2,0,0,0,0,;
 0,0,0,0,0,;

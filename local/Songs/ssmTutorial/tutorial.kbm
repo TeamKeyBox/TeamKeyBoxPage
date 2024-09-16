@@ -1,8 +1,9 @@
 meta("Tutorial", tutorial.wav, 0, 120,)
+title_hiragana("ちゅーとりある",)
 subtitle("チュートリアル",)
 official(3,"ssmTutorial","tutorial",3,-1,"en=\"The First Step\";jp=\"初めの一歩\";",)
 offset(-0.02,)
-diff(0, 1,){
+diff(0, 1, "さしみ。",){
 0,0,0,0,0,;
 #Tutorial 1
 0,0,0,0,0,;

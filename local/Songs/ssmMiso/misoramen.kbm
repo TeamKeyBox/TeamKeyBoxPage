@@ -1,10 +1,11 @@
 meta("[MISO RAMEN]の構想", miso.wav, 0, 224,)
+title_hiragana("みそらーめんのこうそう",)
 subtitle("さしみ。",)
 official(3,"ssmmisoramen","misoramen",3,-1,"en=\"Miso Ramen\";jp=\"味噌ラーメン\";",)
 internaltag("keybox",)
 offset(0,)
 demostart(36.425,)
-diff(3, 5,){
+diff(3, 5, "さしみ。",){
 0,0,0,0,0,;
 0001,000000000001,0001,0,0,;
 2004,000000100000,000001000100,0,0,;

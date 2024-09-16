@@ -1,9 +1,10 @@
 meta("Flare", flare.wav, 0, 157,)
+title_hiragana("ふれあ",)
 subtitle("Rubyman",)
 official(3,"rbFlare","flare",3,-1,"en=\"Like a flare\";jp=\"燃え盛るフレアのように\";",)
 offset(0.4,)
 demostart(48.925,)
-diff(2, 5,){
+diff(2, 5, "さしみ。",){
 #HS 0.7
 1,0,0,0,0,;
 #HS 0.8
