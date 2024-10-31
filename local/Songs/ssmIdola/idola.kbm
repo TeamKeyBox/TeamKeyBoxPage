@@ -2,7 +2,6 @@ meta("イドラ", idola.wav, 0, 220,)
 title_hiragana("いどら",)
 subtitle("さしみ。 feat.カイ",)
 official(3,"ssmIdola",null,null,null,null,)
-limit(5,)
 offset(-0.01,)
 demostart(41.525,)
 diff(3, 5, "さしみ。",){

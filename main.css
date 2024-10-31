@@ -415,6 +415,19 @@ a:has(.thumbnail):hover > .thumbnail_description {
     font-size: 2em;
 }
 
+.story .quote {
+    background-color: gray;
+    color: white;
+    font-style: italic;
+    width: max-content;
+    text-align: left;
+    margin-top: 10px;
+    padding: 8px 8px 8px 8px;
+    font-size: 1.3em;
+    margin-left: 50px;
+    display: inline-block;
+}
+
 a:has(.character) {
     text-decoration: none;
     width: fit-content;
