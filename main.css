@@ -37,6 +37,23 @@ button:disabled {
     color: rgba(255, 255, 255, 0.5);
 }
 
+table {
+    border: 1px solid white;
+    font-size: large;
+    padding: 2px;
+}
+
+table * {
+    border: 1px solid white;
+    font-size: large;
+    padding: 4px;
+}
+
+table th {
+    background-color: #dddddd;
+    color: #222222;
+}
+
 .topmenu {
     position: fixed;
     width: 100%;
@@ -415,17 +432,40 @@ a:has(.thumbnail):hover > .thumbnail_description {
     font-size: 2em;
 }
 
+.story .serif {
+    display: inline-block;
+    position: relative;
+    white-space: nowrap;
+}
+
 .story .quote {
     background-color: gray;
     color: white;
     font-style: italic;
-    width: max-content;
     text-align: left;
-    margin-top: 10px;
     padding: 8px 8px 8px 8px;
-    font-size: 1.3em;
+    font-size: 0.7em;
     margin-left: 50px;
     display: inline-block;
+    position: relative;
+    vertical-align: top;
+    top: 20px;
+    white-space: normal;
+    margin-bottom: 30px;
+}
+
+.story .quote * {
+    display: inline;
+}
+
+.story .icon {
+    width: 100px;
+    height: 100px;
+    image-rendering: pixelated;
+    overflow: hidden;
+    display: inline-block;
+    border: 2px solid white;
+    margin-top: 10px;
 }
 
 a:has(.character) {
@@ -505,7 +545,7 @@ a:has(.character):hover > .character {
 
 .bio {
     width: 100%;
-    height: 200px;
+    height: 280px;
     position: relative;
     top: -50px;
 }
@@ -527,11 +567,6 @@ a:has(.character):hover > .character {
     image-rendering: pixelated;
     user-select: none;
     z-index: -10;
-}
-
-.bio .bioimage img:first-child {
-    scale: 2;
-    filter: blur(3px);
 }
 
 .bio h1 {
