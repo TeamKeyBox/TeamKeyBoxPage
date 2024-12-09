@@ -3,6 +3,7 @@ title_hiragana("かくせぬしんぴのちから",)
 subtitle("さしみ。",)
 official(3,"ssmkakusenu","kakusenu",3,-1,"en=\"Mythical Energy\";jp=\"神秘ノ力\";",)
 offset(-0.01,)
+volume(4,)
 demostart(42.925,)
 diff(3, 4, "さしみ。",){
 #HS 0.5

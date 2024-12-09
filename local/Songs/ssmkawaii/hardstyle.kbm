@@ -4,6 +4,7 @@ subtitle("さしみ。",)
 official(3,"ssmkawaii","kawaii",3,-1,"en=\"NOT cute\";jp=\"全く可愛くない\";",)
 offset(0,)
 demostart(12.475,)
+volume(5,)
 internaltag("hidden_legacy",)
 diff(4, 5, "さしみ。",){
 10101011,10101011,10101011,0,0,;

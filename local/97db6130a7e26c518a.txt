@@ -19,3 +19,5 @@ ssmNumbRobot/numb.kbm
 ssmShinrai/shinrai.kbm
 ssmakuyaku/akuyaku.kbm
 ssmIdola/idola.kbm
+ssmCurrent/current.kbm
+ssmSeimei/seimei.kbm

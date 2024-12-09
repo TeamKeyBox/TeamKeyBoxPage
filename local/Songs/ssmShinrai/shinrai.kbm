@@ -5,6 +5,7 @@ official(3,"ssmShinrai",null,null,null,null,)
 offset(1.59,)
 cost(200,)
 videooffset(0,)
+volume(4,)
 demostart(70.375,)
 diff(3, 5, "さしみ。",){
 #Measure 8 4

@@ -3,6 +3,7 @@ title_hiragana("ぎるどこーる",)
 subtitle("さしみ。",)
 official(3,"ssmGuildCall","guildcall",1,-1,"en=\"Call from a guild\";jp=\"Guild's Call\";",)
 demostart(9.35,)
+volume(5,)
 diff(1, 1, "さしみ。",){
 0,0,0,0,0,;
 10000000,01000000,00100000,00,00,;

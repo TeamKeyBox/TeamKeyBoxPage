@@ -3,6 +3,7 @@ title_hiragana("じえんどあんどざびぎにんぐ",)
 subtitle("Rubyman",)
 official(11,"rbteatb",null,null,null,null,)
 offset(0.32,)
+volume(6,)
 demostart(48.425,)
 diff(2, 4, "さしみ。",){
 01,0,00000111,0,0,;

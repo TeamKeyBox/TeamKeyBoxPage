@@ -5,6 +5,7 @@ official(3,"ssmRelationship",null,null,null,null,)
 lab(2, 3, "??? feat.???",)
 offset(1.59,)
 videooffset(0,)
+volume(5,)
 demostart(32.975,)
 diff(3, 5, "さしみ。",){
 #Measure 8 4

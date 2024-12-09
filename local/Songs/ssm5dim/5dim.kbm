@@ -4,6 +4,7 @@ subtitle("さしみ。",)
 official(11,"ssm5dim","5dim",3,-1,"en=\"A Miracle At Five\";jp=\"5時の奇跡\";",)
 internaltag("keybox",)
 offset(0,)
+volume(2,)
 demostart(50.875,)
 diff(4, 6, "さしみ。",){
 #Measure 3 4

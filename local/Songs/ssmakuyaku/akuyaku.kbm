@@ -2,9 +2,9 @@ meta("悪役を演じている", akuyaku.wav, 0, 180,)
 title_hiragana("あくやくをえんじている",)
 subtitle("さしみ。 feat.水音ラル (UTAU & MYCOEIROINK)",)
 official(3,"ssmAkuyaku",null,null,null,null,)
-cost(200,)
 offset(-0.01,)
 demostart(43.3,)
+volume(4,)
 diff(3, 6, "さしみ。",){
 0010000001000100,0000000010204010,00000000211111114000000010000010,0,0,;
 #HS 0.75

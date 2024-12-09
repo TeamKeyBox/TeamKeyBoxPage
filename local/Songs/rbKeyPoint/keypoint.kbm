@@ -3,6 +3,7 @@ title_hiragana("きーぽいんと",)
 subtitle("Rubyman",)
 official(3,"rbKeypoint","keypoint",1,-1,"en=\"Key Pointer Exception\";jp=\"Key Pointer Exception\";",)
 internaltag("keybox",)
+volume(5,)
 demostart(65.35,)
 diff(0, 5, "さしみ。",){
 2000,0,0,0,0,;
