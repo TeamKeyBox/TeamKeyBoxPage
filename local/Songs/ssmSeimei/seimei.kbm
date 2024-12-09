@@ -3,6 +3,7 @@ title_hiragana("せいめい",)
 subtitle("さしみ。 feat.カイ & ライ",)
 official(3,"ssmSeimei",null,null,null,null,)
 offset(-0.01,)
+limit(5,)
 volume(1,)
 demostart(45.6,)
 diff(3, 6, "さしみ。",){
