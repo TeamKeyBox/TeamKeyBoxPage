@@ -6,6 +6,7 @@ internaltag("keybox",)
 offset(0,)
 volume(2,)
 demostart(50.875,)
+demoend(60.5,)
 diff(4, 6, "さしみ。",){
 #Measure 3 4
 0,0,0,0,0,;

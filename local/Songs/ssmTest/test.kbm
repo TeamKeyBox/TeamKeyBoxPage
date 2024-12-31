@@ -3,6 +3,7 @@ title_hiragana("すぺーすふぁくとりー",)
 subtitle("さしみ。",)
 official(3,"ssmTest","test",3,-1,"en=\"Factory in the space\";jp=\"宇宙空間の工場\";",)
 demostart(39.075,)
+demoend(53.35,)
 volume(6,)
 diff(3, 4, "さしみ。",){
 100100000100100000100100,010010000010010000010010,001001000001001000001001,00,00,;

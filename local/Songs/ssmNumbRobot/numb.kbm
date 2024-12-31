@@ -4,6 +4,7 @@ subtitle("さしみ。 feat.唄音ウタ",)
 official(3,"ssmNumbRobot",null,null,null,null,)
 offset(-0.01,)
 demostart(36.725,)
+demoend(49.575,)
 diff(1, 6, "さしみ。",){
 0,0,0,0,0,;
 1111,0,0,0,0,;

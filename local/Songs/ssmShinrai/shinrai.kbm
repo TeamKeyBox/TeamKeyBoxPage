@@ -7,6 +7,7 @@ cost(200,)
 videooffset(0,)
 volume(4,)
 demostart(70.375,)
+demoend(95.975,)
 diff(3, 5, "さしみ。",){
 #Measure 8 4
 #HS 0.75

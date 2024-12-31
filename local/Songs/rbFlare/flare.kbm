@@ -5,6 +5,7 @@ official(3,"rbFlare","flare",3,-1,"en=\"Like a flare\";jp=\"燃え盛るフレ�
 offset(0.4,)
 volume(7,)
 demostart(48.925,)
+demoend(72.25,)
 diff(2, 5, "さしみ。",){
 #HS 0.7
 1,0,0,0,0,;

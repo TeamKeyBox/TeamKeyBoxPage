@@ -2,10 +2,11 @@ meta("姓 / 名", seimei_mix.wav, 0, 210,)
 title_hiragana("せいめい",)
 subtitle("さしみ。 feat.カイ & ライ",)
 official(3,"ssmSeimei",null,null,null,null,)
-offset(-0.01,)
 limit(5,)
+offset(-0.01,)
 volume(1,)
 demostart(45.6,)
+demoend(64.5,)
 diff(3, 6, "さしみ。",){
 0,0,0,0,0,;
 0000100000100000,

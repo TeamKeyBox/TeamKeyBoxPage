@@ -5,6 +5,7 @@ official(3,"rbKeypoint","keypoint",1,-1,"en=\"Key Pointer Exception\";jp=\"Key P
 internaltag("keybox",)
 volume(5,)
 demostart(65.35,)
+demoend(90.425,)
 diff(0, 5, "さしみ。",){
 2000,0,0,0,0,;
 4,2000,0,0,0,;

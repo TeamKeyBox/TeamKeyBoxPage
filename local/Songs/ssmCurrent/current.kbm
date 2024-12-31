@@ -5,6 +5,7 @@ official(3,"ssmCurrent",null,null,null,null,)
 offset(-0.01,)
 limit(5,)
 demostart(22.625,)
+demoend(43.975,)
 diff(3, 7, "さしみ。",){
 #Measure 8 4
 #HS 0.5
