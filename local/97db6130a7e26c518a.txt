@@ -21,3 +21,8 @@ ssmakuyaku/akuyaku.kbm
 ssmIdola/idola.kbm
 ssmCurrent/current.kbm
 ssmSeimei/seimei.kbm
+ssmBerserkRobot/berserkrobot.kbm
+ssmElec/elec.kbm
+ssmFDD/fdd.kbm
+ssmHexemotion/hexemotion.kbm
+ssmMRJnC/mrjnc.kbm
