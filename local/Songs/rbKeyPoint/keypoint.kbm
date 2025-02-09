@@ -1,6 +1,6 @@
 meta("Key Point", keypoint.wav, 0, 146,)
 title_hiragana("きーぽいんと",)
-subtitle("Rubyman",)
+subtitle("Ruby",)
 official(3,"rbKeypoint","keypoint",1,-1,"en=\"Key Pointer Exception\";jp=\"Key Pointer Exception\";",)
 internaltag("keybox",)
 volume(5,)

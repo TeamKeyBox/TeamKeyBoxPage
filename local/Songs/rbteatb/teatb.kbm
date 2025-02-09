@@ -1,6 +1,6 @@
 meta("The End and The Beginning", teatb.wav, 0, 202.2,)
 title_hiragana("じえんどあんどざびぎにんぐ",)
-subtitle("Rubyman",)
+subtitle("Ruby",)
 official(11,"rbteatb",null,null,null,null,)
 offset(0.32,)
 volume(6,)
