@@ -1,0 +1,2555 @@
+meta("Loyal Expression ← 瓦解", aprilfool.wav, 0, 142,)
+fake("【エイプリルフール】ストーリーモードのリーク音源がまさかの○○だった！【BPM 284】","フォローよろしく★",)
+title_hiragana("えいぷりるふーるすとーりーもーどのりーくおんげんがまさかのまるまるだった",)
+title_hiragana("ろいやるえくすぷれっしょんがかい",)
+subtitle("さしみ。",)
+official(3,"ssmApril2025",null,null,null,null,)
+offset(-0.01,)
+internaltag("apr2025",)
+volume(1,)
+internaltag("keybox",)
+demostart(0,)
+demoend(0.5,)
+diff(3, 7, "さしみ。",){
+#Transform 0 "hud" "alpha" 1 0 1 1
+#Transform 1 "hud" "alpha" 0 0 16 1
+0,0,0,0,0,;
+#ChangeText 0 "title" "" false
+#ChangeText 0 "subtitle" "" false
+0000000700070070,
+7000707000707007,
+0070070007000700,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.5 "combo" "L" false
+#ChangeText 1 "combo" "Lo" false
+#ChangeText 1.5 "combo" "Loa" false
+#ChangeText 2 "combo" "Load" false
+#ChangeText 2.5 "combo" "Loadi" false
+#ChangeText 3 "combo" "Loadin" false
+#ChangeText 3.5 "combo" "Loading" false
+0000707070700700,
+0707070700070070,
+0070000000007007,0,0,;
+000000700000000700000000000000700070000000000000,
+700000000000700000700000700000007000000700000000,
+000000000000000000000700000000000000700000700000,0,0,;
+#ChangeText 3.5 "combo" "" true
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+7000707007070000,
+0707070700707010,
+0070000070000000,0,0,;
+
+#GogoStart
+#HS 1.5
+2000401000010010,
+0000010100100101,
+0010100001001000,0,0,;
+#ScrollMove 0.5 -1 -1 0.26 0 1
+#ScrollMove 1 -1 -1 1 3.9 0
+0001001010100100,
+0010010100010010,
+0100100000001001,0,0,;
+#BPM 284
+#HS 0.75
+#Measure 8 4
+#ScrollMove 999 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.6 1
+#ScrollMove 999 -1 -1 999 2.75 1
+#ScrollMove 1 -1 -1 999 2.85 1
+
+#ScrollMove 999 -1 -1 999 4 1
+#ScrollMove 1 -1 -1 999 4.1 1
+#ScrollMove 999 -1 -1 999 4.5 1
+#ScrollMove 1 -1 -1 999 4.6 1
+
+#ScrollMove 999 -1 -1 999 6 1
+#ScrollMove 1 -1 -1 999 6.5 1
+#ScrollMove 999 -1 -1 999 6.75 1
+#ScrollMove 1 -1 -1 999 7.25 1
+#ScrollMove 999 -1 -1 999 7.5 1
+30001000000010001000000020400000,
+00000010000100100010000000000020,
+00000000101000000000211140020400,0,0,;
+#ScrollMove 1 -1 -1 999 0 1
+#HS 1
+#Transform 7 "hud" "alpha" 0 0 1 1
+20004000000010000000000010003000,
+40001000001000100000000001010000,
+00000020004000001010101000100000,00000002,00000002,;
+
+#GogoEnd
+#Measure 4 4
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "Guild Call" false
+200400010100,
+000000101010,
+400101000001,0010,0000,;
+200000000000400000000000100000001000000000000000,
+000000000000000000000000000010000000000000000000,
+000000000000100000001000000000000000200100100100,0000,0010,;
+200000000000400000000000100000000000100000000000,
+000000000000000000000000000010000000000010000000,
+400000000000200100100100400000001000000000001000,0010,0000,;
+100100000000100010000000,
+000000100100001000000000,
+000000000000000000100000,0000,0010,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 2 "title" "Guild Call" false
+300300010100,
+000000101010,
+000000000001,2210,2200,;
+200000000000400000000000100000001000000000000000,
+000000000000000000000000000010000000000000000000,
+000000000000100000001000000000000000200100100100,0000,0010,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "Guild Call" false
+200000000000400000000000000000000000000000000000,
+000000000000000000000000000000000000000000000000,
+400000000000200000100000100000100000100100100100,0010,0000,;
+#ChangeText 0 "title" "欲求_Hue" false
+2040002040002040,
+0020400000204010,
+4000204020400000,0,0,;
+#Transform 0 "hud" "alpha" 1 0 7.9 1
+0000000000002040,
+0000001000000000,
+2040000000100000,0,0,;
+0000000010001010,
+1000100000100101,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "M_R_J_n_C" false
+1000100010001000,
+0000000000000000,
+0000001000100010,0,0,;
+1000100010010010,
+0000000001001001,
+0010001000100100,0,0,;
+1000100010001000,
+0000000000000000,
+0010001000100010,0,0,;
+1000100010010010,
+0000000001001001,
+0010001000100100,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "M_R_J_n_C" false
+1000100010001000,
+0000000000000000,
+0000001000100010,2,2,;
+#ChangeText 3 "title" "M_R_J_n_" false
+#ChangeText 3.5 "title" "M_R_J_n" false
+#Lyric "まともに生きれるのかな" 3
+1000100010010010,
+0000000001001001,
+0010001000100100,0,0,;
+#ChangeText 0 "title" "M_R_J_" false
+#ChangeText 0.5 "title" "M_R_J" false
+#ChangeText 1 "title" "M_R_" false
+#ChangeText 1.5 "title" "M_R" false
+#ChangeText 2 "title" "M_" false
+#ChangeText 2.5 "title" "M" false
+#ChangeText 3 "title" "" false
+#ChangeText 3.5 "title" "R" false
+#ChangeText 3.75 "title" "Re" false
+1000100010001000,
+0000000000000000,
+0010001000100010,0,0,;
+#ChangeText 0 "title" "Rel" false
+#ChangeText 0.25 "title" "Relat" false
+#ChangeText 0.5 "title" "Relatio" false
+#ChangeText 0.75 "title" "Relations" false
+#ChangeText 1 "title" "Relationshi" false
+#ChangeText 1.25 "title" "Relationship " false
+#ChangeText 1.5 "title" "Relationship Ad" false
+#ChangeText 1.75 "title" "Relationship Adju" false
+#ChangeText 2 "title" "Relationship Adjust" false
+#ChangeText 2.25 "title" "Relationship Adjustme" false
+#ChangeText 2.5 "title" "Relationship Adjustment" false
+#ChangeText 0 "subtitle" "さしみ。 f" false
+#ChangeText 0.25 "subtitle" "さしみ。 fea" false
+#ChangeText 0.5 "subtitle" "さしみ。 feat." false
+#ChangeText 0.75 "subtitle" "さしみ。 feat.重" false
+#ChangeText 1 "subtitle" "さしみ。 feat.重音" false
+#ChangeText 1.25 "subtitle" "さしみ。 feat.重音テ" false
+#ChangeText 1.5 "subtitle" "さしみ。 feat.重音テト" false
+#Lyric "あのさやめて" 2.5
+2000000040000010,
+0000100010001000,
+0000000000204000,0,0,;
+
+1000000010000000,
+0000000000000000,
+0020402040204020,0,01,;
+#Lyric "追跡するのやめて" 0.5
+1020400010000020,
+0000204000002040,
+4000002040204000,01,0,;
+4000000010000000,
+1000000000000000,
+0020402040204020,0,01,;
+#Lyric "これが依存か" 0.5
+1020400010000020,
+0000204000002040,
+4000002040204000,01,0,;
+
+#Lyric "やめたくてもやめられない" 0.5
+4000001020400020,
+6000400000204000,
+0010000000002040,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+4000201040000000,
+0000000020104000,
+2010400000002111,0,0,;
+2000400020004000,
+0000000000000000,
+4000100000001000,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+2040204020101111,
+0000000000100010,
+0000000000001000,0,0,;
+
+#Lyric
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+400000000000000000000000100000000000000000000000,
+000000000000000000000000000000000000000000001000,
+200000000000000000100100400000001000000000000000,01,0,;
+#ScrollMove 999 -1 -1 999 3 1
+#ChangeText 3 "title" "????????????????" false
+#ChangeText 3 "subtitle" "????" false
+100000000000000000001000000000001000000000000000,
+000000000000000000000000100000000000000000000000,
+000000001000000000000000000000000000200000000000,0,01,;
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#ScrollMove 1 -1 -1 999 0 1
+100000000000000000000000100000000000000000000000,
+000000000000000000001000000000001000000000001000,
+400000001000000000000000000000000000100000000000,01,0,;
+100000000000000000001000000000000000000000000000,
+000000000000100000000000100000000000000000000000,
+000000001000000000000000000000000000100000000000,0,01,;
+
+200000000000400000000000200000000000400000000000,
+000000000000000000001000000000000000100000000000,
+000000000000100000000000000000001000000000000000,01,0,;
+000000000000100000000000000000001000000000001000,
+200000400000000000000000200000400000000000000000,
+000000001000000000001000000000000000100000000000,0,01,;
+000000000000200000000000400000000000000000000000,
+200000000000400000000000200000000000400000000000,
+000000000000000000000000000000000000200000000000,0101,0,;
+300000300000300000300000200000100000100100100100,
+000000000000000000000000000000000000000000000000,
+400000000000000000000000000000000000000000000000,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#HS 0.75
+4000000000000000,
+0000000000000000,
+2000000000000000,0,0,;
+0010100100000000,
+1000010030000000,
+4001001000000000,0,0,;
+2000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+4010001000001000,
+0000100000000010,
+1000000030000000,0,0,;
+
+1000000000001000,
+0000000000000010,
+0000001000000000,0,01,;
+1000000000000010,
+0010001000100000,
+0000100000001000,01,0,;
+0000100000100000,
+0000001000001000,
+1000000010000010,0,01,;
+6040000000002400,
+0000604000200400,
+0000000060000400,0,0,;
+
+#Transform 0 "hud" "alpha" 1 0 16 1
+#Transform 0 "track" "ox" 0 20 2.1 23
+#Transform 2 "track" "ox" 20 10 2.1 22
+1000000000000000,
+0000000000001000,
+0000000010000000,0,0,;
+#Transform 0 "track" "ox" 0 -20 2.1 23
+#Transform 2 "track" "ox" -20 -10 2.1 22
+1000000000000000,
+0000100010000000,
+0000000000001000,0,0,;
+#Transform 0 "track" "ox" -5 0 4 23
+1000000000000010,
+0000001000000001,
+0000000000100000,0,0,;
+0000000010001000,
+0000100000000000,
+1000000000000000,0,0,;
+
+#ChangeText 0 "title" "浴ビ共感" false
+#ChangeText 0 "subtitle" "さしみ。 feat.水音ラル" false
+#Transform 1 "hud" "alpha" 0 1 12 1
+#HS 1
+#Lyric "勢いをつけなければ 洗脳は解けない"
+0000001000000020,
+2000004020402040,
+0000000000204000,0,0,;
+4000000000100000,
+2000400010001000,
+0000200040000010,0,0,;
+0000000000000010,
+2000000000004000,
+0000000000000000,0,0,;
+0010001010000000,
+1000100000100010,
+0000000000001000,0,0,;
+
+#GogoStart
+#Transform 0 "track" "ox" 100 100 0.75 1
+#Transform 0.75 "track" "ox" 0 0 0.75 1
+#Transform 1.5 "track" "ox" -100 -100 0.75 1
+#Transform 2.25 "track" "ox" 0 0 0.75 1
+#Transform 3 "track" "sx" 2 2 1 1
+#Lyric "機械自体死体みたいで理解したいが為にまれに起こる"
+1001001001001000,
+0001000001000000,
+0000001000000000,0,0,;
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -50 -50 1 1
+#Transform 1 "track" "oy" 0 0 1 1
+#Transform 1 "track" "rz" 5 5 0.75 1
+#Transform 1.75 "track" "rz" 10 10 0.75 1
+#Transform 2.5 "track" "rz" 5 5 0.5 1
+#Transform 3 "track" "rz" 0 0 1 1
+#Transform 3.5 "track" "ox" -100 -100 0.5 1
+#Lyric "怒涛の論争に寄り添う奴誰だよ?" 3.5
+0000000100100000,
+0000100000100010,
+1000100100001000,0,0,;
+#Transform 0 "track" "ox" 0 0 0.5 1
+#Transform 1 "track" "ox" -500 500 0.5 1
+#Transform 1.5 "track" "ox" -500 500 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ry" 180 180 0.25 1
+#Transform 3.25 "track" "ry" 0 0 0.25 1
+#Transform 3.5 "track" "ry" 180 180 0.25 1
+#Transform 3.75 "track" "ry" 0 0 0.25 1
+1000000010000010,
+0010000000100101,
+0000211140001000,0,0,;
+#Transform 2.25 "track" "ox" 9999 9999 0.25 1
+#Transform 2.5 "track" "ox" 0 0 0.25 1
+#Transform 2.75 "track" "ox" 9999 9999 0.25 1
+#Transform 3 "track" "ox" 0 0 0.25 1
+#Transform 3.25 "track" "ox" 9999 9999 0.25 1
+#Transform 3.5 "track" "ox" 0 0 0.25 1
+#Transform 3.75 "track" "ox" 9999 9999 0.25 1
+#Lyric "吐き気がする「浴ビ共感」勝ち取った者だけが" 1.5
+1000000010000000,
+0000100000100010,
+0000001000001000,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 30 0 4 31
+2000000040100010,
+0000000000001000,
+0000000010000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000010000000,
+0000000000100010,
+2000000040001000,02,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000100000100000,
+0000001000000000,
+2000400010002000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+#Lyric "正しいという掟が存在するんだ"
+0000200040000000,
+2000400000002000,
+4000000020004000,02,0,;
+
+#Transform 2 "track" "ox" 30 0 4 31
+2000400020004000,
+4000000000002000,
+0000200040000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+2000400000000000,
+4000000020004000,
+0000200040002000,02,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000010001000,
+1000100000000000,
+4000000000000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+1000000010001010,
+0010001000100101,
+0000100000000000,02,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Lyric
+2000401000010000,
+0000100100100000,
+0000000001002111,0,0,;
+0000100101002011,
+2000401000100000,
+4000000000010000,0,0,;
+#Transform 0 "track" "ox" -180 -180 1 1
+#Transform 1 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 180 180 1 1
+#Transform 3 "track" "ox" 0 0 1 1
+4000000020402040,
+0000204020400000,
+2040204000000000,0,0,;
+#Transform 0 "track" "ox" -180 -180 0.5 1
+#Transform 0.5 "track" "ox" 180 180 0.5 1
+#Transform 1 "track" "ox" 0 0 0.5 1
+#Transform 1.5 "track" "ox" 180 180 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#ScrollMove 1.25 -1 -1 999 2 1
+#ScrollMove 1 -1 -1 999 2.25 1
+#ScrollMove 0.75 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.75 1
+#Transform 3 "track" "ox" 50 50 0.25 1
+#Transform 3.25 "track" "ox" 0 0 0.25 1
+#Transform 3.5 "track" "ox" -50 -50 0.25 1
+#Transform 3.75 "track" "ox" 0 0 0.25 1
+0024002400100000,
+0000240001010000,
+2400000010002111,0,0,;
+
+0000100100010000,
+2000401000100000,
+4000000001002111,0,0,;
+2000401001002111,
+0000100100100000,
+4000000000010000,0,0,;
+4010000020402111,
+0001002040010000,
+2040204000100000,0,0,;
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#Transform 0 "hud" "oy" 0 800 1 1
+#Transform 1 "hud" "oy" -800 800 1 1
+#Transform 2 "hud" "oy" -800 800 1 1
+#Transform 3 "hud" "oy" -800 800 1 1
+4000007070000070,
+0000000700007000,
+2040700000700000,0,0,;
+
+#Transform 0 "hud" "oy" 0 0 1 1
+0000000000101000,
+0000000000010010,
+2000000000400000,0,0,;
+2040002000401000,
+0020400000100100,
+0000204000000010,0,0,;
+1010101020400020,
+0101010100002040,
+0000000000204000,0,0,;
+400010000000100000001000000010000000100000001000,
+100000001000000010000000100000001000000000000000,
+000000000000000000000000000000000000000010000000,0,0,;
+
+#Transform 1 "track" "ox" 180 180 1 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ox" -180 -180 1 1
+0000100000000010,
+2000400020004000,
+0000001000001000,00100001,00010010,;
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" 0 180 1 31
+#Transform 0 "track" "sx" 1.3 1.3 1 1
+#Transform 0.5 "track" "sx" 1.2 1.2 1 1
+#Transform 1 "track" "sx" 1.1 1.1 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+0000100000002111,
+0010001000000000,
+1000000021114000,0,0,;
+#Transform 0 "track" "ox" 60 0 1 23
+#Transform 0 "track" "sx" 1 1 1 1
+4010001000100010,
+0100100001001000,
+1000000010000000,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+1000000000000000,
+0010101000000000,
+0000000020101010,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "????????????????" false
+#ChangeText 0 "subtitle" "????" false
+#Transform 0 "track" "sx" 2 0 4 23
+#ChangeText 3 "combo" "" false
+#ChangeText 3.25 "combo" "" true
+#ChangeText 3.5 "combo" "" false
+#ChangeText 3.75 "combo" "" true
+1000000000000000,
+0000000000000000,
+4000000000000000,2,2,;
+#ChangeText 0 "combo" "" false
+#Transform 0 "track" "sx" 0 0 1 1
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "It" false
+#ChangeText 0.25 "combo" "It's" false
+#ChangeText 0.5 "combo" "It's time" false
+#ChangeText 0.75 "combo" "It's time to" false
+#ChangeText 1 "combo" "It's time to play" false
+7000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.25 "combo" "右上を見ろ" false
+#ChangeText 0.5 "combo" "" false
+#ChangeText 0.75 "combo" "Look at the corner ↗" false
+#ChangeText 1 "combo" "" false
+#ChangeText 2 "difficulty" "H" false
+#ChangeText 2.25 "difficulty" "He" false
+#ChangeText 2.5 "difficulty" "Hel" false
+#ChangeText 2.75 "difficulty" "Hell" false
+#ChangeText 3 "difficulty" "Hello" false
+7000000070007000,
+0000000000000707,
+0000000000000070,0,0,;
+
+#ChangeText 3.5 "difficulty" "譜面を楽しんでいるかい?" false
+#ChangeText 3.75 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "difficulty" "Are you enjoying this chart?" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#Transform 0 "hud" "alpha" 1 0 4 1
+#ChangeText 0 "difficulty" 4 true
+#ChangeText 0 "difficulty" "OK" false
+#ChangeText 2 "difficulty" "O" false
+#ChangeText 3 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 4 1
+#Typing "april"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+#Typing "fools"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Typing "day"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -1680 0 4 23
+#Typing "keybox"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" true
+#ChangeText 0.25 "combo" "" false
+#ChangeText 0.5 "combo" "" true
+#ChangeText 0.75 "combo" "" false
+#ChangeText 1 "combo" "" true
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 1 8 1
+#ChangeText 0 "difficulty" 4 true
+0000000000002040,
+2000004000000020,
+0000002000004000,0,0,;
+0000000000002000,
+0000400020004000,
+0000200040000000,0,0,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 8 1
+4000204000100000,
+0000000010000010,
+2000402040001000,0,0,;
+1001001000002040,
+0100100100204020,
+0010010020400000,0,0,;
+
+0010000020401010,
+4001002040204000,
+2040204000000000,0,0,;
+0020401010204020,
+2040000100000000,
+0000204000002040,0,0,;
+410101010010,
+000010101000,
+101000000101,0,0,;
+0020401000204000,
+2040100100002040,
+0000010020400020,0,0,;
+
+#GogoEnd
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#ChangeText 0.9 "title" "????????????????" false
+#ChangeText 0.9 "subtitle" "????" false
+#ChangeText 2.9 "title" "Guild Call" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#ScrollMove 999 -1 -1 999 1 1
+#ScrollMove 1 -1 -1 999 2 1
+1000000010001000,
+0000200040000101,
+4000000000000010,11,11,;
+#Lyric "機械自体死体みたいで理解したいが為にまれに起こる" 1
+#Lyric "" 2
+#ChangeText 0.9 "title" "浴ビ共感" false
+#ChangeText 0.9 "subtitle" "さしみ。 feat.水音ラル" false
+#ChangeText 2.9 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+1000000010001000,
+0000100100000010,
+0000010000000000,1011,1011,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 1 1
+0000000000000010,
+0000204010001000,
+2000402040100000,2,2,;
+0000003000300000,
+0003000000000300,
+3000000000000000,0,0,;
+
+0010000020401010,
+4001002040204000,
+2040204000000000,0,0,;
+0020401010204020,
+2040000100000000,
+0000204000002040,0,0,;
+410101010010,
+000010101000,
+101000000101,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+0020401000000000,
+2040100100000000,
+0000010020101010,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 2 "title" "Relationship Adjustment" false
+#ChangeText 2 "subtitle" "さしみ。 feat.重音テト" false
+#Transform 2 "track" "ox" -180 -180 2 1
+#ChangeText 0 "difficulty" 3 true
+#Lyric "あのさやめて" 2
+3000300010000000,
+0000000000000000,
+4000000000204020,0,0,;
+#Lyric
+#Transform 0 "track" "ox" 0 0 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" -180 0 1 31
+1000001000000000,
+0010000000002111,
+4000100021114000,0,0,;
+1000100010001001,
+4010001000100010,
+0000000100000000,0,0,;
+#Transform 0.5 "track" "sx" 1.5 1.5 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+0000001000100010,
+1000000010001000,
+0021114000000000,0,0,;
+
+#ScrollMove 0.5 -1 -1 1 0 31
+#ScrollMove 1 -1 -1 1 1 31
+#ScrollMove 0.5 -1 -1 1 2 31
+#ScrollMove 1 -1 -1 1 3 31
+#ChangeText 0 "title" "EDEN <Electric - DENki>" false
+0000000000000000,
+2040204020402040,
+0000000000000000,0,0,;
+#Transform 0 "track" "ox" 0 180 1 23
+#Transform 0.5 "track" "ox" 0 -180 1 23
+#Transform 1 "track" "ox" 0 180 1 23
+#Transform 1.5 "track" "ox" 90 0 1 23
+#ScrollMove 0.5 -1 -1 999 1.9 1
+#ScrollMove 1 -1 -1 0.5 2 1
+#ChangeText 2 "title" "???? <???????? - ?????>" false
+#ChangeText 3 "title" "????????" false
+#ChangeText 3.5 "title" "????" false
+1000100000001000,
+0000001000000010,
+0010000020004000,0,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+0000100000000000,
+0000000050000000,
+5000000000001000,0,0,;
+5000000050505050,
+0000100000000000,
+0000000000000000,0,0,;
+
+2000400000100000,
+0000000010000000,
+0000001000000010,0,0101,;
+#ChangeText 3 "title" "5次の軌跡" false
+#ScrollMove 2 -1 -1 999 3 1
+0010000010000000,
+1000001000100000,
+0000100000002000,0,0100,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ScrollMove 1 -1 -1 999 0 1
+2000400000100010,
+0000000010000001,
+4000001000001000,0101,0,;
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 2 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+1000000010000000,
+0000001000000024,
+0000100000002400,0101,0,;
+
+2000400010000000,
+0000001000000010,
+0000000000001000,0,0101,;
+1000100000100000,
+0000001000001001,
+0010000010000010,0101,0,;
+1000100010001010,
+0010001000100101,
+0000000000000000,0,0101,;
+#GogoEnd
+#ChangeText 2 "title" "------------" false
+#ChangeText 2 "subtitle" "--------" false
+
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+#Transform 2.625 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 2.875 "hud" "alpha" 1 1 1 1
+#Transform 3 "hud" "alpha" 0 0 1 1
+#Transform 3.125 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.375 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+#Transform 3.625 "hud" "alpha" 1 1 1 1
+#Transform 3.75 "hud" "alpha" 0 0 1 1
+#Transform 3.875 "hud" "alpha" 1 1 1 1
+1000000000000000,
+0010002011111111,
+0000100000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 0.125 "hud" "alpha" 1 1 1 1
+#Transform 0.25 "hud" "alpha" 0 0 1 1
+#Transform 0.375 "hud" "alpha" 1 1 1 1
+#Transform 0.5 "hud" "alpha" 0 0 1 1
+#Transform 0.625 "hud" "alpha" 1 1 1 1
+#Transform 0.75 "hud" "alpha" 0 0 1 1
+#Transform 0.875 "hud" "alpha" 1 1 1 1
+#Transform 1 "hud" "alpha" 0 0 1 1
+#Transform 1.125 "hud" "alpha" 1 1 1 1
+#Transform 1.25 "hud" "alpha" 0 0 1 1
+#Transform 1.375 "hud" "alpha" 1 1 1 1
+#Transform 1.5 "hud" "alpha" 0 0 1 1
+#Transform 1.625 "hud" "alpha" 1 1 1 1
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 1.875 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+
+#Transform 2.5 "track" "ox" 1800 2500 0.25 1
+#Transform 2.75 "track" "ox" -1800 1800 0.25 1
+#Transform 3 "track" "ox" 500 -500 0.25 1
+#Transform 3.25 "track" "ox" 2400 -2400 0.25 1
+#Transform 3.5 "track" "ox" 9999 9999 60 1
+0000000000000000,
+1111111111400000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "score" "?" false
+#ChangeText 1 "score" "??" false
+#ChangeText 2 "score" "???" false
+#ChangeText 3 "score" "????" false
+#ChangeText 0 "combo" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "?????" false
+#ChangeText 0.5 "score" "??????" false
+#ChangeText 1 "score" "???????" false
+#ChangeText 1.5 "score" "????????" false
+#ChangeText 2 "score" "?x9" false
+#ChangeText 2.25 "score" "?x10" false
+#ChangeText 2.5 "score" "?x11" false
+#ChangeText 2.75 "score" "?x12" false
+#ChangeText 3 "score" "?x14" false
+#ChangeText 3.25 "score" "?x16" false
+#ChangeText 3.5 "score" "?x18" false
+#ChangeText 3.75 "score" "?x20" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "[Kick]" false
+#ChangeText 1 "score" "[1kHz Sine Wave]" false
+#ChangeText 2 "score" "[Typing Success]" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "KeyBox" false
+#ChangeText 0 "combo" "Thank you for playing!" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+}
+
+
+
+diff(2, 7, "さしみ。",){
+#Transform 0 "hud" "alpha" 1 0 1 1
+#Transform 1 "hud" "alpha" 0 0 16 1
+0,0,0,0,0,;
+#ChangeText 0 "title" "" false
+#ChangeText 0 "subtitle" "" false
+0000000700070070,
+7000707000707007,
+0070070007000700,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.5 "combo" "L" false
+#ChangeText 1 "combo" "Lo" false
+#ChangeText 1.5 "combo" "Loa" false
+#ChangeText 2 "combo" "Load" false
+#ChangeText 2.5 "combo" "Loadi" false
+#ChangeText 3 "combo" "Loadin" false
+#ChangeText 3.5 "combo" "Loading" false
+0000707070700700,
+0707070700070070,
+0070000000007007,0,0,;
+000000700000000700000000000000700070000000000000,
+700000000000700000700000700000007000000700000000,
+000000000000000000000700000000000000700000700000,0,0,;
+#ChangeText 3.5 "combo" "" true
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+7000707007070000,
+0707070700707010,
+0070000070000000,0,0,;
+
+#GogoStart
+#HS 1.5
+1000100100010010,
+0000010000100100,
+0010001001001000,0,0,;
+#ScrollMove 0.5 -1 -1 0.26 0 1
+#ScrollMove 1 -1 -1 1 3.9 0
+0000211140000100,
+0000000000100010,
+0211400010001000,0,0,;
+#BPM 284
+#HS 0.75
+#Measure 8 4
+#ScrollMove 999 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.6 1
+#ScrollMove 999 -1 -1 999 2.75 1
+#ScrollMove 1 -1 -1 999 2.85 1
+
+#ScrollMove 999 -1 -1 999 4 1
+#ScrollMove 1 -1 -1 999 4.1 1
+#ScrollMove 999 -1 -1 999 4.5 1
+#ScrollMove 1 -1 -1 999 4.6 1
+
+#ScrollMove 999 -1 -1 999 6 1
+#ScrollMove 1 -1 -1 999 6.5 1
+#ScrollMove 999 -1 -1 999 6.75 1
+#ScrollMove 1 -1 -1 999 7.25 1
+#ScrollMove 999 -1 -1 999 7.5 1
+30001000000010001000000010000000,
+00000010000000100010000000000010,
+00000000300000000000211140010000,0,0,;
+#ScrollMove 1 -1 -1 999 0 1
+#HS 1
+#Transform 7 "hud" "alpha" 0 0 1 1
+20004000000010000000100000003000,
+00000000000000100010001000000000,
+00000020004000001000000021114000,00000002,00000002,;
+
+#GogoEnd
+#Measure 4 4
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "Guild Call" false
+200400000000,
+000000211111,
+400000000000,0,0000,;
+200000000000400000000000000000000000000000000000,
+400000000000000000000000200010001000400000000000,
+000000000000000000000000000000000000200100100100,0000,0,;
+200000000000400000000000200010001000400000000000,
+000000000000000000000000000000000000200010001000,
+400000000000200100100100400000000000000000000000,0,0000,;
+100000000000201010104000,
+400100000100000000000000,
+000000100000000000000000,0000,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 2 "title" "Guild Call" false
+300300000000,
+000000211111,
+000000000000,2200,2200,;
+200000000000400000000000200010001000400000000000,
+400000000000000000100000000000000000000000000000,
+000000000000100000000000000000000000200100100100,0000,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "Guild Call" false
+200000000000400000000000000000000000000000000000,
+000000000000000000000000000000000000000000000000,
+400000000000200000100000100000100000100100100100,0,0000,;
+#ChangeText 0 "title" "欲求_Hue" false
+2040000000002040,
+0020400000204000,
+4000204020400000,0,0,;
+#Transform 0 "hud" "alpha" 1 0 7.9 1
+0000000000002000,
+0000001000000000,
+2040000000100000,0,0,;
+1000100010101111,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "M_R_J_n_C" false
+4000100010001000,
+0000000000000000,
+1000000000000000,0,0,;
+1000100010001000,
+0000000000000000,
+0000000000100010,0,0,;
+1000100010001000,
+0000000000000000,
+0000000000000000,0,0,;
+1000100010001000,
+0000000000000000,
+0000000000100010,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "M_R_J_n_C" false
+1000100010001000,
+0000000000000000,
+0000000000000000,2,2,;
+#ChangeText 3 "title" "M_R_J_n_" false
+#ChangeText 3.5 "title" "M_R_J_n" false
+1000100010001000,
+0000000000000000,
+0000000000100010,0,0,;
+#ChangeText 0 "title" "M_R_J_" false
+#ChangeText 0.5 "title" "M_R_J" false
+#ChangeText 1 "title" "M_R_" false
+#ChangeText 1.5 "title" "M_R" false
+#ChangeText 2 "title" "M_" false
+#ChangeText 2.5 "title" "M" false
+#ChangeText 3 "title" "" false
+#ChangeText 3.5 "title" "R" false
+#ChangeText 3.75 "title" "Re" false
+1000100010001000,
+0000000000000000,
+0010001000100010,0,0,;
+#ChangeText 0 "title" "Rel" false
+#ChangeText 0.25 "title" "Relat" false
+#ChangeText 0.5 "title" "Relatio" false
+#ChangeText 0.75 "title" "Relations" false
+#ChangeText 1 "title" "Relationshi" false
+#ChangeText 1.25 "title" "Relationship " false
+#ChangeText 1.5 "title" "Relationship Ad" false
+#ChangeText 1.75 "title" "Relationship Adju" false
+#ChangeText 2 "title" "Relationship Adjust" false
+#ChangeText 2.25 "title" "Relationship Adjustme" false
+#ChangeText 2.5 "title" "Relationship Adjustment" false
+#ChangeText 0 "subtitle" "さしみ。 f" false
+#ChangeText 0.25 "subtitle" "さしみ。 fea" false
+#ChangeText 0.5 "subtitle" "さしみ。 feat." false
+#ChangeText 0.75 "subtitle" "さしみ。 feat.重" false
+#ChangeText 1 "subtitle" "さしみ。 feat.重音" false
+#ChangeText 1.25 "subtitle" "さしみ。 feat.重音テ" false
+#ChangeText 1.5 "subtitle" "さしみ。 feat.重音テト" false
+2000000040000010,
+0000100010001000,
+0000000000000000,0,0,;
+
+0000000000000000,
+1000000000000000,
+0020402040204020,0,01,;
+0010000010000020,
+0000100000002040,
+4000001000204000,01,0,;
+4000000000000000,
+1000000000000000,
+0020402040204020,0,01,;
+0010000010000020,
+0000100000002040,
+4000001000204000,01,0,;
+
+4000000020400020,
+6040000000204000,
+0000000000002040,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+4000201040000000,
+0000000020104000,
+2010400000002111,0,0,;
+2000400020004000,
+0000000000000000,
+4000000000000000,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+2040204010001000,
+0000000000000010,
+0000000000100000,0,0,;
+
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+400000000000000000000000100000000000000000000000,
+000000000000000000000000000000000000000000001000,
+200000000000000000100100400000001000000000000000,0,0,;
+#ScrollMove 999 -1 -1 999 3 1
+#ChangeText 3 "title" "????????????????" false
+#ChangeText 3 "subtitle" "????" false
+100000000000000000001000000000001000000000000000,
+000000000000000000000000100000000000000000000000,
+000000001000000000000000000000000000200000000000,0,0,;
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#ScrollMove 1 -1 -1 999 0 1
+100000000000000000001000000000000000000000001000,
+000000000000000000000000100000001000000000000000,
+400000001000000000000000000000000000100000000000,0,0,;
+000000000000000000001000000000000000000000000000,
+000000000000000000000000100000000000000000000000,
+000000001000000000000000000000000000100000000000,0,0,;
+
+100000000000000000000000100000000000000000000000,
+000000000000000000001000000000000000000000000000,
+000000000000100000000000000000001000000000000000,0,0,;
+000000000000000000001000000000001000000000000000,
+200000400000000000000000100000000000000000000000,
+000000001000000000000000000000000000100000000000,0,0,;
+000000000000200000000000400000000000000000000000,
+200000000000400000000000200000000000400000000000,
+000000000000000000000000000000000000200000000000,0,0,;
+300000000000300000000000200000100000100100100100,
+000000300000000000300000000000000000000000000000,
+400000000000000000000000000000000000000000000000,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#HS 0.75
+4000000000000000,
+0000000000000000,
+2000000000000000,0,0,;
+0010001000000000,
+1000000030000000,
+4000100000000000,0,0,;
+2000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+4010001000001000,
+0000100000000010,
+1000000030000000,0,0,;
+
+1000000000001000,
+0000000000000010,
+0000001000000000,0,0,;
+1000000000000010,
+0010001000100000,
+0000100000001000,0,0,;
+0000100000100000,
+0000001000001000,
+1000000010000010,0,0,;
+600000004000000,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 1 0 16 1
+#Transform 0 "track" "ox" 0 20 2.1 23
+#Transform 2 "track" "ox" 20 10 2.1 22
+1000000000000000,
+0000000000001000,
+0000000010000000,0,0,;
+#Transform 0 "track" "ox" 0 -20 2.1 23
+#Transform 2 "track" "ox" -20 -10 2.1 22
+1000000000000000,
+0000100010000000,
+0000000000001000,0,0,;
+#Transform 0 "track" "ox" -5 0 4 23
+1000000000000010,
+0000001000000001,
+0000000000100000,0,0,;
+0000000010001000,
+0000100000000000,
+1000000000000000,0,0,;
+
+#ChangeText 0 "title" "浴ビ共感" false
+#ChangeText 0 "subtitle" "さしみ。 feat.水音ラル" false
+#Transform 1 "hud" "alpha" 0 1 12 1
+#HS 1
+0000001000000010,
+2000004010001000,
+0000000000100000,0,0,;
+4000000000100000,
+2000400010001000,
+0000200040000010,0,0,;
+0000000000000000,
+2000000000004000,
+0000000000000000,0,0,;
+2010101010104000,
+0000000000000010,
+0000000000001000,0,0,;
+
+#GogoStart
+#Transform 0 "track" "ox" 100 100 0.75 1
+#Transform 0.75 "track" "ox" 0 0 0.75 1
+#Transform 1.5 "track" "ox" -100 -100 0.75 1
+#Transform 2.25 "track" "ox" 0 0 0.75 1
+#Transform 3 "track" "sx" 2 2 1 1
+1001001001001000,
+0000000000000000,
+0000000000000000,0,0,;
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -50 -50 1 1
+#Transform 1 "track" "oy" 0 0 1 1
+#Transform 1 "track" "rz" 5 5 0.75 1
+#Transform 1.75 "track" "rz" 10 10 0.75 1
+#Transform 2.5 "track" "rz" 5 5 0.5 1
+#Transform 3 "track" "rz" 0 0 1 1
+#Transform 3.5 "track" "ox" -100 -100 0.5 1
+0000000100000000,
+0000100000100010,
+1000000000001000,0,0,;
+#Transform 0 "track" "ox" 0 0 0.5 1
+#Transform 1 "track" "ox" -500 500 0.5 1
+#Transform 1.5 "track" "ox" -500 500 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ry" 180 180 0.25 1
+#Transform 3.25 "track" "ry" 0 0 0.25 1
+#Transform 3.5 "track" "ry" 180 180 0.25 1
+#Transform 3.75 "track" "ry" 0 0 0.25 1
+1000000010000000,
+0010000000100000,
+0000211140002111,0,0,;
+#Transform 2.25 "track" "ox" 9999 9999 0.25 1
+#Transform 2.5 "track" "ox" 0 0 0.25 1
+#Transform 2.75 "track" "ox" 9999 9999 0.25 1
+#Transform 3 "track" "ox" 0 0 0.25 1
+#Transform 3.25 "track" "ox" 9999 9999 0.25 1
+#Transform 3.5 "track" "ox" 0 0 0.25 1
+#Transform 3.75 "track" "ox" 9999 9999 0.25 1
+1000000010000000,
+0000000000100010,
+4000000000001000,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 30 0 4 31
+2000000040100000,
+0000000000001000,
+0000000010000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000010000000,
+0000000000100000,
+2000000040001000,02,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000100000000000,
+0000001000000000,
+2000400010002000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000200040000000,
+2000400000002000,
+4000000020004000,02,0,;
+
+#Transform 2 "track" "ox" 30 0 4 31
+2000400020004000,
+4000000000002000,
+0000200040000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+2000400000000000,
+4000000020004000,
+0000200040002000,02,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000010001000,
+1000100000000000,
+4000000000000000,0,02,;
+#Transform 2 "track" "ox" 30 0 4 31
+1000000000100000,
+0000100000001000,
+0000000010000010,02,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+2000401000000000,
+0000100100000000,
+0000000000211111,0,0,;
+0000100100211011,
+2000401000000000,
+4000000000000000,0,0,;
+#Transform 0 "track" "ox" -180 -180 1 1
+#Transform 1 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 180 180 1 1
+#Transform 3 "track" "ox" 0 0 1 1
+4000000020400000,
+0000204000002040,
+2040000000000000,0,0,;
+#Transform 0 "track" "ox" -180 -180 0.5 1
+#Transform 0.5 "track" "ox" 180 180 0.5 1
+#Transform 1 "track" "ox" 0 0 0.5 1
+#Transform 1.5 "track" "ox" 180 180 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#ScrollMove 1.25 -1 -1 999 2 1
+#ScrollMove 1 -1 -1 999 2.25 1
+#ScrollMove 0.75 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.75 1
+#Transform 3 "track" "ox" 50 50 0.25 1
+#Transform 3.25 "track" "ox" 0 0 0.25 1
+#Transform 3.5 "track" "ox" -50 -50 0.25 1
+#Transform 3.75 "track" "ox" 0 0 0.25 1
+0024002400000000,
+0000240021114000,
+2400000000002111,0,0,;
+
+0000100100000000,
+2000401000000000,
+4000000000211111,0,0,;
+2000401000211111,
+0000100100000000,
+4000000000000000,0,0,;
+4010000020402111,
+0000002040100000,
+2040204000000000,0,0,;
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#Transform 0 "hud" "oy" 0 800 1 1
+#Transform 1 "hud" "oy" -800 800 1 1
+#Transform 2 "hud" "oy" -800 800 1 1
+#Transform 3 "hud" "oy" -800 800 1 1
+4000007070000070,
+0000000700007000,
+2040700000700000,0,0,;
+
+#Transform 0 "hud" "oy" 0 0 1 1
+0000000000100000,
+0000000000010000,
+2000000000401000,0,0,;
+2040002000400000,
+0020400000100000,
+0000204000002111,0,0,;
+0000000020400020,
+2111111140002040,
+4000000000204000,0,0,;
+400000000000200010001000400000000000000000001000,
+200010001000400000000000200010001000400010000000,
+000000000000000000000000000000000000100000000000,0,0,;
+
+#Transform 1 "track" "ox" 180 180 1 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ox" -180 -180 1 1
+0000100000000000,
+2000400020004000,
+0000000000001000,0100,0001,;
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" 0 180 1 31
+#Transform 0 "track" "sx" 1.3 1.3 1 1
+#Transform 0.5 "track" "sx" 1.2 1.2 1 1
+#Transform 1 "track" "sx" 1.1 1.1 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+0000100000002111,
+0010001000000000,
+1000000021114000,0,0,;
+#Transform 0 "track" "ox" 60 0 1 23
+#Transform 0 "track" "sx" 1 1 1 1
+4000100000000010,
+0000001000001000,
+2110400021104000,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+0000000000000000,
+2010101040000000,
+0000000020101010,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "????????????????" false
+#ChangeText 0 "subtitle" "????" false
+#Transform 0 "track" "sx" 2 0 4 23
+#ChangeText 3 "combo" "" false
+#ChangeText 3.25 "combo" "" true
+#ChangeText 3.5 "combo" "" false
+#ChangeText 3.75 "combo" "" true
+1000000000000000,
+0000000000000000,
+4000000000000000,2,2,;
+#ChangeText 0 "combo" "" false
+#Transform 0 "track" "sx" 0 0 1 1
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "It" false
+#ChangeText 0.25 "combo" "It's" false
+#ChangeText 0.5 "combo" "It's time" false
+#ChangeText 0.75 "combo" "It's time to" false
+#ChangeText 1 "combo" "It's time to play" false
+7000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.25 "combo" "右上を見ろ" false
+#ChangeText 0.5 "combo" "" false
+#ChangeText 0.75 "combo" "Look at the corner ↗" false
+#ChangeText 1 "combo" "" false
+#ChangeText 2 "difficulty" "H" false
+#ChangeText 2.25 "difficulty" "He" false
+#ChangeText 2.5 "difficulty" "Hel" false
+#ChangeText 2.75 "difficulty" "Hell" false
+#ChangeText 3 "difficulty" "Hello" false
+7000000070007000,
+0000000000000707,
+0000000000000070,0,0,;
+
+#ChangeText 3.5 "difficulty" "ちょっと難しすぎるかも?" false
+#ChangeText 3.75 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "difficulty" "Do you think it's too difficult?" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#Transform 0 "hud" "alpha" 1 0 4 1
+#ChangeText 0 "difficulty" 3 true
+#ChangeText 0 "difficulty" "OK" false
+#ChangeText 2 "difficulty" "O" false
+#ChangeText 3 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 4 1
+#Typing "april"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+#Typing "fools"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Typing "day"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -1680 0 4 23
+#Typing "keybox"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" true
+#ChangeText 0.25 "combo" "" false
+#ChangeText 0.5 "combo" "" true
+#ChangeText 0.75 "combo" "" false
+#ChangeText 1 "combo" "" true
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 1 8 1
+#ChangeText 0 "difficulty" 3 true
+0000000000000000,
+2000004000000020,
+0000002000004000,0,0,;
+0000000000002000,
+0000400020004000,
+0000200040000000,0,0,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 8 1
+4000204000100000,
+0000000010000010,
+2000402040001000,0,0,;
+1000100000002040,
+0100001000204020,
+0010000020400000,0,0,;
+
+0010000020401000,
+4000002040204010,
+2040204000000000,0,0,;
+0020401000204020,
+0000000100000000,
+2040204010002040,0,0,;
+400000211400,
+000211400000,
+211400000211,0,0,;
+0020401000204000,
+2040100100002040,
+4000000020400020,0,0,;
+
+#GogoEnd
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#ChangeText 0.9 "title" "????????????????" false
+#ChangeText 0.9 "subtitle" "????" false
+#ChangeText 2.9 "title" "Guild Call" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#ScrollMove 999 -1 -1 999 1 1
+#ScrollMove 1 -1 -1 999 2 1
+1000000010001000,
+0000200040000100,
+4000000000000010,11,11,;
+#ChangeText 0.9 "title" "浴ビ共感" false
+#ChangeText 0.9 "subtitle" "さしみ。 feat.水音ラル" false
+#ChangeText 2.9 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+1000000010001000,
+0000100000000000,
+0000010000000000,1011,1011,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 1 1
+0000000010000010,
+0000204000100000,
+2000402040001000,2,2,;
+0000003000300000,
+0003000000000300,
+3000000000000000,0,0,;
+
+0010000020400010,
+4001001000204000,
+2040100000002040,0,0,;
+0020401000204020,
+2040000100000000,
+0000204010002040,0,0,;
+400211400000,
+000000211400,
+211400000211,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+0020401000000000,
+2040100000000000,
+4000000020101010,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 2 "title" "Relationship Adjustment" false
+#ChangeText 2 "subtitle" "さしみ。 feat.重音テト" false
+#Transform 2 "track" "ox" -180 -180 2 1
+#ChangeText 0 "difficulty" 2 true
+3000300010000000,
+0000000000000000,
+4000000000204020,0,0,;
+#Transform 0 "track" "ox" 0 0 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" -180 0 1 31
+1000000000000000,
+0010000000002111,
+4000100021114000,0,0,;
+1000100010001000,
+4010002140100021,
+0000000000000000,0,0,;
+#Transform 0.5 "track" "sx" 1.5 1.5 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+1000001000002010,
+4000000020104000,
+0021114000000000,0,0,;
+
+#ScrollMove 0.5 -1 -1 1 0 31
+#ScrollMove 1 -1 -1 1 1 31
+#ScrollMove 0.5 -1 -1 1 2 31
+#ScrollMove 1 -1 -1 1 3 31
+#ChangeText 0 "title" "EDEN <Electric - DENki>" false
+4000000000000000,
+1000100010001000,
+0000000000000000,0,0,;
+#Transform 0 "track" "ox" 0 180 1 23
+#Transform 0.5 "track" "ox" 0 -180 1 23
+#Transform 1 "track" "ox" 0 180 1 23
+#Transform 1.5 "track" "ox" 90 0 1 23
+#ScrollMove 0.5 -1 -1 999 1.9 1
+#ScrollMove 1 -1 -1 0.5 2 1
+#ChangeText 2 "title" "???? <???????? - ?????>" false
+#ChangeText 3 "title" "????????" false
+#ChangeText 3.5 "title" "????" false
+1000100000001000,
+0000000020004000,
+0010001000000000,0,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+0000000000000000,
+0000000050000000,
+5000000000000000,0,0,;
+5000000010101010,
+0000000000000000,
+0000000000000000,0,0,;
+
+2000400000100000,
+0000000010000000,
+0000001000000010,0,0,;
+#ChangeText 3 "title" "5次の軌跡" false
+#ScrollMove 2 -1 -1 999 3 1
+0010000010000000,
+1000001000100000,
+0000100000002000,0,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ScrollMove 1 -1 -1 999 0 1
+2000400000100010,
+0000000010000000,
+4000001000001000,0,0,;
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 2 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+0000000010000000,
+1000001000000024,
+0000100000002400,0,0,;
+
+2000400010000000,
+0000001000000010,
+0000000000001000,0,0101,;
+1000100000100000,
+0000001000001000,
+0010000010000010,0101,0,;
+2000400010001000,
+0000001000100100,
+0000100000000010,0,0,;
+#GogoEnd
+#ChangeText 2 "title" "------------" false
+#ChangeText 2 "subtitle" "--------" false
+
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+#Transform 2.625 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 2.875 "hud" "alpha" 1 1 1 1
+#Transform 3 "hud" "alpha" 0 0 1 1
+#Transform 3.125 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.375 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+#Transform 3.625 "hud" "alpha" 1 1 1 1
+#Transform 3.75 "hud" "alpha" 0 0 1 1
+#Transform 3.875 "hud" "alpha" 1 1 1 1
+0000000000000000,
+2010101011111111,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 0.125 "hud" "alpha" 1 1 1 1
+#Transform 0.25 "hud" "alpha" 0 0 1 1
+#Transform 0.375 "hud" "alpha" 1 1 1 1
+#Transform 0.5 "hud" "alpha" 0 0 1 1
+#Transform 0.625 "hud" "alpha" 1 1 1 1
+#Transform 0.75 "hud" "alpha" 0 0 1 1
+#Transform 0.875 "hud" "alpha" 1 1 1 1
+#Transform 1 "hud" "alpha" 0 0 1 1
+#Transform 1.125 "hud" "alpha" 1 1 1 1
+#Transform 1.25 "hud" "alpha" 0 0 1 1
+#Transform 1.375 "hud" "alpha" 1 1 1 1
+#Transform 1.5 "hud" "alpha" 0 0 1 1
+#Transform 1.625 "hud" "alpha" 1 1 1 1
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 1.875 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+
+#Transform 2.5 "track" "ox" 1800 2500 0.25 1
+#Transform 2.75 "track" "ox" -1800 1800 0.25 1
+#Transform 3 "track" "ox" 500 -500 0.25 1
+#Transform 3.25 "track" "ox" 2400 -2400 0.25 1
+#Transform 3.5 "track" "ox" 9999 9999 60 1
+0000000000000000,
+1111111111400000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "score" "?" false
+#ChangeText 1 "score" "??" false
+#ChangeText 2 "score" "???" false
+#ChangeText 3 "score" "????" false
+#ChangeText 0 "combo" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "?????" false
+#ChangeText 0.5 "score" "??????" false
+#ChangeText 1 "score" "???????" false
+#ChangeText 1.5 "score" "????????" false
+#ChangeText 2 "score" "?x9" false
+#ChangeText 2.25 "score" "?x10" false
+#ChangeText 2.5 "score" "?x11" false
+#ChangeText 2.75 "score" "?x12" false
+#ChangeText 3 "score" "?x14" false
+#ChangeText 3.25 "score" "?x16" false
+#ChangeText 3.5 "score" "?x18" false
+#ChangeText 3.75 "score" "?x20" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "[Kick]" false
+#ChangeText 1 "score" "[1kHz Sine Wave]" false
+#ChangeText 2 "score" "[Typing Success]" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "KeyBox" false
+#ChangeText 0 "combo" "Thank you for playing!" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+}
+
+
+
+
+
+
+
+diff(1, 7, "さしみ。",){
+#Transform 0 "hud" "alpha" 1 0 1 1
+#Transform 1 "hud" "alpha" 0 0 16 1
+0,0,0,0,0,;
+#ChangeText 0 "title" "" false
+#ChangeText 0 "subtitle" "" false
+0000000700070070,
+7000707000707007,
+0070070007000700,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.5 "combo" "L" false
+#ChangeText 1 "combo" "Lo" false
+#ChangeText 1.5 "combo" "Loa" false
+#ChangeText 2 "combo" "Load" false
+#ChangeText 2.5 "combo" "Loadi" false
+#ChangeText 3 "combo" "Loadin" false
+#ChangeText 3.5 "combo" "Loading" false
+0000707070700700,
+0707070700070070,
+0070000000007007,0,0,;
+000000700000000700000000000000700070000000000000,
+700000000000700000700000700000007000000700000000,
+000000000000000000000700000000000000700000700000,0,0,;
+#ChangeText 3.5 "combo" "" true
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+7000707007070000,
+0707070700707010,
+0070000070000000,0,0,;
+
+#GogoStart
+#HS 1.5
+2010111100111111,
+0001001000000000,
+0000000010000010,0,0,;
+#ScrollMove 0.5 -1 -1 0.26 0 1
+#ScrollMove 1 -1 -1 1 3.9 0
+4001001000000000,
+2111111110140000,
+0000000010002111,0,0,;
+#BPM 284
+#HS 0.75
+#Measure 8 4
+#ScrollMove 999 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.6 1
+#ScrollMove 999 -1 -1 999 2.75 1
+#ScrollMove 1 -1 -1 999 2.85 1
+
+#ScrollMove 999 -1 -1 999 4 1
+#ScrollMove 1 -1 -1 999 4.1 1
+#ScrollMove 999 -1 -1 999 4.5 1
+#ScrollMove 1 -1 -1 999 4.6 1
+
+#ScrollMove 999 -1 -1 999 6 1
+#ScrollMove 1 -1 -1 999 6.5 1
+#ScrollMove 999 -1 -1 999 6.75 1
+#ScrollMove 1 -1 -1 999 7.25 1
+#ScrollMove 999 -1 -1 999 7.5 1
+30001000000020104000000010000000,
+00000000000000002010400000000010,
+40000000201140000000211140010000,0,0,;
+#ScrollMove 1 -1 -1 999 0 1
+#HS 1
+#Transform 7 "hud" "alpha" 0 0 1 1
+20004000000010000000000000000000,
+00000000000000100000000000000000,
+00000020004000002010101011114000,00000002,00000002,;
+
+#GogoEnd
+#Measure 4 4
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "Guild Call" false
+200400000000,
+000000211111,
+400000000000,0,0000,;
+200000000000400000000000000000000000000000000000,
+400000000000000000000000200010001000400000000000,
+000000000000000000000000000000000000200100100100,0000,0,;
+200000000000400000000000200010001000400000000000,
+000000000000000000000000000000000000200010001000,
+400000000000200100100100400000000000000000000000,0,0000,;
+000000000000201010104000,
+400000000000000000000000,
+200100100100400000000000,0000,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 2 "title" "Guild Call" false
+300300000000,
+000000211111,
+000000000000,0,0,;
+200000000000400000000000200010001000400000000000,
+400000000000000000100000000000000000000000000000,
+000000000000100000000000000000000000200100100100,0000,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "Guild Call" false
+200000000000400000000000000000000000000000000000,
+000000000000000000000000000000000000000000000000,
+400000000000200000100000100000100000100100100100,0,0000,;
+#ChangeText 0 "title" "欲求_Hue" false
+2010104000000000,
+0000000000000000,
+4000000020101010,0,0,;
+#Transform 0 "hud" "alpha" 1 0 7.9 1
+2000001000101000,
+0000000000000000,
+4000000000000000,0,0,;
+1000100010101111,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 1 1 1 1
+#ChangeText 0 "title" "M_R_J_n_C" false
+4000100010001000,
+0000000000000000,
+1000000000000000,0,0,;
+1000100000000000,
+0000000000000000,
+0000000021111111,0,0,;
+1000100010001000,
+0000000000000000,
+4000000000000000,0,0,;
+1000100000000000,
+0000000000000000,
+0000000021111111,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 1 "title" "M_R_J_n_C" false
+1000100010001000,
+0000000000000000,
+4000000000000000,2,2,;
+#ChangeText 3 "title" "M_R_J_n_" false
+#ChangeText 3.5 "title" "M_R_J_n" false
+1000100000000000,
+0000000000000000,
+0000000021111111,0,0,;
+#ChangeText 0 "title" "M_R_J_" false
+#ChangeText 0.5 "title" "M_R_J" false
+#ChangeText 1 "title" "M_R_" false
+#ChangeText 1.5 "title" "M_R" false
+#ChangeText 2 "title" "M_" false
+#ChangeText 2.5 "title" "M" false
+#ChangeText 3 "title" "" false
+#ChangeText 3.5 "title" "R" false
+#ChangeText 3.75 "title" "Re" false
+1000100000001000,
+0010000010000000,
+4000000000000000,0,0,;
+#ChangeText 0 "title" "Rel" false
+#ChangeText 0.25 "title" "Relat" false
+#ChangeText 0.5 "title" "Relatio" false
+#ChangeText 0.75 "title" "Relations" false
+#ChangeText 1 "title" "Relationshi" false
+#ChangeText 1.25 "title" "Relationship " false
+#ChangeText 1.5 "title" "Relationship Ad" false
+#ChangeText 1.75 "title" "Relationship Adju" false
+#ChangeText 2 "title" "Relationship Adjust" false
+#ChangeText 2.25 "title" "Relationship Adjustme" false
+#ChangeText 2.5 "title" "Relationship Adjustment" false
+#ChangeText 0 "subtitle" "さしみ。 f" false
+#ChangeText 0.25 "subtitle" "さしみ。 fea" false
+#ChangeText 0.5 "subtitle" "さしみ。 feat." false
+#ChangeText 0.75 "subtitle" "さしみ。 feat.重" false
+#ChangeText 1 "subtitle" "さしみ。 feat.重音" false
+#ChangeText 1.25 "subtitle" "さしみ。 feat.重音テ" false
+#ChangeText 1.5 "subtitle" "さしみ。 feat.重音テト" false
+6000000040000000,
+0000000000001000,
+0000000000000000,0,0,;
+
+0000000000000000,
+1000000000000000,
+0020402040204020,0,0,;
+0020101040000000,
+0000000020101010,
+4000000000000000,0,0,;
+1000000000000000,
+4000000000000000,
+0020402040204020,0,0,;
+0020101040001000,
+0000000000000000,
+4000000010000000,0,0,;
+
+0000000020400000,
+6040000000002040,
+0000000000000000,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+0000201040000000,
+0000000020104000,
+2010400000002111,0,0,;
+2000400020004000,
+0000000000000000,
+4000000000000000,0,0,;
+#Transform 3 "hud" "alpha" 0 0 0.25 1
+#Transform 3.125 "hud" "alpha" 1 1 0.25 1
+#Transform 3.25 "hud" "alpha" 0 0 0.25 1
+#Transform 3.375 "hud" "alpha" 1 1 0.25 1
+#Transform 3.5 "hud" "alpha" 0 0 0.25 1
+#Transform 3.625 "hud" "alpha" 1 1 0.25 1
+#Transform 3.75 "hud" "alpha" 0 0 0.25 1
+#Transform 3.875 "hud" "alpha" 1 1 0.25 1
+2040204000000000,
+0000000020101111,
+0000000000000000,0,0,;
+
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+000000000000000000000000000000000000000000000000,
+400000000000000000000000000000000000000000002000,
+200000000000000000100100400000001000000000000000,0,0,;
+#ScrollMove 999 -1 -1 999 3 1
+#ChangeText 3 "title" "????????????????" false
+#ChangeText 3 "subtitle" "????" false
+000000001000000000002000400000000000000000000000,
+400000000000000000000000000000000000000000000000,
+000000000000000000000000000000002000101010101010,0,0,;
+#ChangeText 0 "title" "Four Dimension Dance" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#ScrollMove 1 -1 -1 999 0 1
+000000000000000000002000400000000000000000001000,
+000000000000000000000000000000002000400000000000,
+400000001000000000000000000000000000000000000000,0,0,;
+000000000000000000000000000000000000000000000000,
+000000000000000000002000400000000000000000000000,
+000000001000000000000000000000000000100000000000,0,0,;
+
+200000000000400000000000200000000000400000000000,
+000000000000000000007000000000000000000000000000,
+000000000000000000000000000000007000000000000000,0,0,;
+000000000000000000007000000000007000000000000000,
+200000000000400000000000200000000000400000000000,
+000000007000000000000000000000000000700000000000,0,0,;
+000000000000200000000000400000000000000000000000,
+200000000000400000000000200000000000400000000000,
+000000000000000000000000000000000000200000000000,0,0,;
+200000100000100000100000100000100000100100100100,
+000000000000000000000000000000000000000000000000,
+400000000000000000000000000000000000000000000000,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#HS 0.75
+4000000000000000,
+0000000000000000,
+2000000000000000,0,0,;
+0000000000000000,
+2011111140000000,
+4000000030000000,0,0,;
+2000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+4000201040000000,
+0000000000001000,
+2010400030000000,0,0,;
+
+1000000000000000,
+0000000010000000,
+0000000010000000,0,0,;
+1000000000001000,
+0000000010000000,
+0000000010000000,0,0,;
+1000000000000000,
+0000000010001000,
+0000000010000000,0,0,;
+600000004000000,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 1 0 16 1
+#Transform 0 "track" "ox" 0 20 2.1 23
+#Transform 2 "track" "ox" 20 10 2.1 22
+1000000000000000,
+0000000000001000,
+0000000010000000,0,0,;
+#Transform 0 "track" "ox" 0 -20 2.1 23
+#Transform 2 "track" "ox" -20 -10 2.1 22
+1000000000000000,
+0000100010000000,
+0000000000001000,0,0,;
+#Transform 0 "track" "ox" -5 0 4 23
+1000000000000000,
+0000001000000000,
+0000000000100000,0,0,;
+0000000010001000,
+0000100000000000,
+1000000000000000,0,0,;
+
+#ChangeText 0 "title" "浴ビ共感" false
+#ChangeText 0 "subtitle" "さしみ。 feat.水音ラル" false
+#Transform 1 "hud" "alpha" 0 1 12 1
+#HS 1
+0000000010000000,
+2000004000100000,
+0000000000001000,0,0,;
+4000000020104000,
+2000400000000000,
+0000200040002010,0,0,;
+0000000000000000,
+2000000000004000,
+4000000000000000,0,0,;
+2010101010104000,
+0000000000000000,
+0000000000001000,0,0,;
+
+#GogoStart
+#Transform 0 "track" "ox" 100 100 0.75 1
+#Transform 0.75 "track" "ox" 0 0 0.75 1
+#Transform 1.5 "track" "ox" -100 -100 0.75 1
+#Transform 2.25 "track" "ox" 0 0 0.75 1
+#Transform 3 "track" "sx" 2 2 1 1
+1001001001001000,
+0000000000000000,
+0000000000000000,0,0,;
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -50 -50 1 1
+#Transform 1 "track" "oy" 0 0 1 1
+#Transform 1 "track" "rz" 5 5 0.75 1
+#Transform 1.75 "track" "rz" 10 10 0.75 1
+#Transform 2.5 "track" "rz" 5 5 0.5 1
+#Transform 3 "track" "rz" 0 0 1 1
+#Transform 3.5 "track" "ox" -100 -100 0.5 1
+0000000000000000,
+1000100100101010,
+0000000000000000,0,0,;
+#Transform 0 "track" "ox" 0 0 0.5 1
+#Transform 1 "track" "ox" -500 500 0.5 1
+#Transform 1.5 "track" "ox" -500 500 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ry" 180 180 0.25 1
+#Transform 3.25 "track" "ry" 0 0 0.25 1
+#Transform 3.5 "track" "ry" 180 180 0.25 1
+#Transform 3.75 "track" "ry" 0 0 0.25 1
+2010400020104000,
+0000000000000000,
+0000211140002111,0,0,;
+#Transform 2.25 "track" "ox" 9999 9999 0.25 1
+#Transform 2.5 "track" "ox" 0 0 0.25 1
+#Transform 2.75 "track" "ox" 9999 9999 0.25 1
+#Transform 3 "track" "ox" 0 0 0.25 1
+#Transform 3.25 "track" "ox" 9999 9999 0.25 1
+#Transform 3.5 "track" "ox" 0 0 0.25 1
+#Transform 3.75 "track" "ox" 9999 9999 0.25 1
+1000000000000000,
+0000000020101010,
+4000000000000000,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 30 0 4 31
+2000000040000000,
+4000000000001000,
+0000000030000000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000030000000,
+0000000000000000,
+2000000040001000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000100000000000,
+0000001000000000,
+2000400030002000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000100000000000,
+1000000000001000,
+4000000030000000,0,0,;
+
+#Transform 2 "track" "ox" 30 0 4 31
+2000400020004000,
+0000000000002000,
+0000200040000000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+2000400000000000,
+4000000020004000,
+0000200040002000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+0000000010001000,
+1000100000000000,
+4000000000000000,0,0,;
+#Transform 2 "track" "ox" 30 0 4 31
+1000000000100000,
+0000100000001000,
+0000000010000010,0,0,;
+
+#ChangeText 0 "title" "欲求_Hue" false
+#ChangeText 0 "subtitle" "さしみ。" false
+2000400000000000,
+0000201140000000,
+0000000000211111,0,0,;
+0000201140000000,
+2000400000211011,
+4000000000000000,0,0,;
+#Transform 0 "track" "ox" -180 -180 1 1
+#Transform 1 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 180 180 1 1
+#Transform 3 "track" "ox" 0 0 1 1
+0000000020400000,
+4000204000002040,
+2040000000000000,0,0,;
+#Transform 0 "track" "ox" -180 -180 0.5 1
+#Transform 0.5 "track" "ox" 180 180 0.5 1
+#Transform 1 "track" "ox" 0 0 0.5 1
+#Transform 1.5 "track" "ox" 180 180 0.5 1
+#Transform 2 "track" "ox" 0 0 1 1
+#ScrollMove 1.25 -1 -1 999 2 1
+#ScrollMove 1 -1 -1 999 2.25 1
+#ScrollMove 0.75 -1 -1 999 2.5 1
+#ScrollMove 1 -1 -1 999 2.75 1
+#Transform 3 "track" "ox" 50 50 0.25 1
+#Transform 3.25 "track" "ox" 0 0 0.25 1
+#Transform 3.5 "track" "ox" -50 -50 0.25 1
+#Transform 3.75 "track" "ox" 0 0 0.25 1
+0010001000000000,
+0000100021114000,
+1000000000002111,0,0,;
+
+0000201140000000,
+2000400000000000,
+4000000000211111,0,0,;
+2000400000211111,
+0000201140000000,
+4000000000000000,0,0,;
+4000000010002111,
+0000100000000000,
+2040000000000000,0,0,;
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#Transform 0 "hud" "oy" 0 800 1 1
+#Transform 1 "hud" "oy" -800 800 1 1
+#Transform 2 "hud" "oy" -800 800 1 1
+#Transform 3 "hud" "oy" -800 800 1 1
+4000700700000070,
+0000007070007000,
+2040000000700000,0,0,;
+
+#Transform 0 "hud" "oy" 0 0 1 1
+0000000000000000,
+0000000000001000,
+2000000000114000,0,0,;
+1000002000400000,
+0010000000000000,
+0000000000002111,0,0,;
+0000000010000000,
+2111111140001000,
+4000000000100000,0,0,;
+000000000000200010001000400000000000000000000000,
+200010001000400000000000200010001000400000000000,
+000000000000000000000000000000000000200010001000,0,0,;
+
+#Transform 1 "track" "ox" 180 180 1 1
+#Transform 2 "track" "ox" 0 0 1 1
+#Transform 3 "track" "ox" -180 -180 1 1
+0000100000000000,
+2000400020004000,
+4000000000001000,0,0,;
+#Transform 0 "track" "ox" 0 0 1 1
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" 0 180 1 31
+#Transform 0 "track" "sx" 1.3 1.3 1 1
+#Transform 0.5 "track" "sx" 1.2 1.2 1 1
+#Transform 1 "track" "sx" 1.1 1.1 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+0000000000002111,
+2010101040000000,
+0000000021114000,0,0,;
+#Transform 0 "track" "ox" 60 0 1 23
+#Transform 0 "track" "sx" 1 1 1 1
+4000201040001000,
+0000000000000000,
+2110400021104000,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+0000000000000000,
+2010101040000000,
+0000000020101010,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "????????????????" false
+#ChangeText 0 "subtitle" "????" false
+#Transform 0 "track" "sx" 2 0 4 23
+#ChangeText 3 "combo" "" false
+#ChangeText 3.25 "combo" "" true
+#ChangeText 3.5 "combo" "" false
+#ChangeText 3.75 "combo" "" true
+1000000000000000,
+0000000000000000,
+4000000000000000,2,2,;
+#ChangeText 0 "combo" "" false
+#Transform 0 "track" "sx" 0 0 1 1
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "It" false
+#ChangeText 0.25 "combo" "It's" false
+#ChangeText 0.5 "combo" "It's time" false
+#ChangeText 0.75 "combo" "It's time to" false
+#ChangeText 1 "combo" "It's time to play" false
+7000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" false
+#ChangeText 0.25 "combo" "右上を見ろ" false
+#ChangeText 0.5 "combo" "" false
+#ChangeText 0.75 "combo" "Look at the corner ↗" false
+#ChangeText 1 "combo" "" false
+#ChangeText 2 "difficulty" "H" false
+#ChangeText 2.25 "difficulty" "He" false
+#ChangeText 2.5 "difficulty" "Hel" false
+#ChangeText 2.75 "difficulty" "Hell" false
+#ChangeText 3 "difficulty" "Hello" false
+7000000070007000,
+0000000000000707,
+0000000000000070,0,0,;
+
+#ChangeText 3.5 "difficulty" "まだ簡単だよね?" false
+#ChangeText 3.75 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "difficulty" "It's still easy, isn't it?" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#Transform 0 "hud" "alpha" 1 0 4 1
+#ChangeText 0 "difficulty" 2 true
+#ChangeText 0 "difficulty" "OK" false
+#ChangeText 2 "difficulty" "O" false
+#ChangeText 3 "difficulty" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 4 1
+#Typing "april"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+#Typing "fools"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Typing "day"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#Transform 0 "track" "sx" 1 1 1 1
+#Transform 0 "track" "oy" -1680 0 4 23
+#Typing "keybox"
+0000000000000000,
+8000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "combo" "" true
+#ChangeText 0.25 "combo" "" false
+#ChangeText 0.5 "combo" "" true
+#ChangeText 0.75 "combo" "" false
+#ChangeText 1 "combo" "" true
+0000000000000000,
+0000000040000000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 1 8 1
+#ChangeText 0 "difficulty" 2 true
+0000000000000000,
+2000004000000020,
+0000002000004000,0,0,;
+0000000000002000,
+0000400020004000,
+0000200040000000,0,0,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 8 1
+4000204000100000,
+0000000010000010,
+2000402040001000,0,0,;
+2111400000002040,
+0000211140204000,
+0000000020400000,0,0,;
+
+0010000010001000,
+0000001000100000,
+2040100000000000,0,0,;
+0020402140100000,
+0000000000001000,
+2040100010000000,0,0,;
+000000211400,
+000211400000,
+211400000211,0,0,;
+0010002140100000,
+2040100000001000,
+4000000010000010,0,0,;
+
+#GogoEnd
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#ChangeText 0.9 "title" "????????????????" false
+#ChangeText 0.9 "subtitle" "????" false
+#ChangeText 2.9 "title" "Guild Call" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#ScrollMove 999 -1 -1 999 1 1
+#ScrollMove 1 -1 -1 999 2 1
+1000000010001000,
+0000000000000100,
+0000000000000010,0,0,;
+#ChangeText 0.9 "title" "浴ビ共感" false
+#ChangeText 0.9 "subtitle" "さしみ。 feat.水音ラル" false
+#ChangeText 2.9 "title" "Loyal Expression ← 瓦解" false
+#ChangeText 2.9 "subtitle" "さしみ。" false
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 1 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+1000000010001000,
+0000100000000000,
+0000010000000000,0,0,;
+#GogoStart
+#Transform 0 "hud" "alpha" 1 1 1 1
+0000000010000000,
+0000204000100000,
+2000402040001000,2,2,;
+0000000000300300,
+0000000000000000,
+3003003000000000,0,0,;
+
+0021400010000010,
+4000001000100000,
+2040204000001000,0,0,;
+0020402140204020,
+2040000000000000,
+0000204020402040,0,0,;
+400211400000,
+000000211400,
+211400000211,0,0,;
+#Transform 2 "track" "sx" 1.1 1.1 1 1
+#Transform 2.5 "track" "sx" 1.3 1.3 1 1
+#Transform 3 "track" "sx" 1.6 1.6 1 1
+#Transform 3.5 "track" "sx" 2 2 1 1
+0010001000000000,
+1000100000000000,
+4000000020101010,0,0,;
+
+#GogoEnd
+#Transform 0 "track" "sx" 1 1 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 2 "title" "Relationship Adjustment" false
+#ChangeText 2 "subtitle" "さしみ。 feat.重音テト" false
+#Transform 2 "track" "ox" -180 -180 2 1
+#ChangeText 0 "difficulty" 1 true
+3000300000000000,
+0000000000000000,
+4000000020100010,0,0,;
+#Transform 0 "track" "ox" 0 0 1 1
+#ChangeText 0 "title" "Two L!fe Fusion" false
+#ChangeText 0 "subtitle" "さしみ。" false
+#Transform 2 "track" "ox" 0 -180 1 31
+#Transform 3 "track" "ox" -180 0 1 31
+1000000000000000,
+0010000000002111,
+4000100021114000,0,0,;
+0000000010000000,
+1010101110101011,
+0000000000000000,0,0,;
+#Transform 0.5 "track" "sx" 1.5 1.5 1 1
+#Transform 1.5 "track" "sx" 1 1 1 1
+1000000020101010,
+4000000000000000,
+0021114000000000,0,0,;
+
+#ScrollMove 0.5 -1 -1 1 0 31
+#ScrollMove 1 -1 -1 1 1 31
+#ScrollMove 0.5 -1 -1 1 2 31
+#ScrollMove 1 -1 -1 1 3 31
+#ChangeText 0 "title" "EDEN <Electric - DENki>" false
+4000000000000000,
+1000100010001000,
+0000000000000000,0,0,;
+#Transform 0 "track" "ox" 0 180 1 23
+#Transform 0.5 "track" "ox" 0 -180 1 23
+#Transform 1 "track" "ox" 0 180 1 23
+#Transform 1.5 "track" "ox" 90 0 1 23
+#ScrollMove 0.5 -1 -1 999 1.9 1
+#ScrollMove 1 -1 -1 0.5 2 1
+#ChangeText 2 "title" "???? <???????? - ?????>" false
+#ChangeText 3 "title" "????????" false
+#ChangeText 3.5 "title" "????" false
+1000100020004000,
+0000000000001000,
+0010001000000000,0,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+0000000000000000,
+0000000050000000,
+5000000000000000,0,0,;
+5000000000000000,
+0000000020101010,
+0000000000000000,0,0,;
+
+2000400000000000,
+4000000000000020,
+0000002010104000,0,0,;
+#ChangeText 3 "title" "5次の軌跡" false
+#ScrollMove 2 -1 -1 999 3 1
+000020104000000,
+1010400020104000,
+0000000000002000,0,0,;
+#ChangeText 0 "title" "欲求_Hue" false
+#ScrollMove 1 -1 -1 999 0 1
+2000400000100000,
+0000000010000000,
+4000001000000000,0,0,;
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 2 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 3 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.5 "hud" "alpha" 1 1 1 1
+0000000010000000,
+1000001000000024,
+0000100000002400,0,0,;
+
+2000400000000000,
+0000002040000000,
+0000000000002040,0,0,;
+0020400000000000,
+0000000000002010,
+0000000020104000,0,0,;
+2000400010001000,
+4000001000000000,
+0000100000000010,0,0,;
+#GogoEnd
+#ChangeText 2 "title" "------------" false
+#ChangeText 2 "subtitle" "--------" false
+
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+#Transform 2.625 "hud" "alpha" 1 1 1 1
+#Transform 2.75 "hud" "alpha" 0 0 1 1
+#Transform 2.875 "hud" "alpha" 1 1 1 1
+#Transform 3 "hud" "alpha" 0 0 1 1
+#Transform 3.125 "hud" "alpha" 1 1 1 1
+#Transform 3.25 "hud" "alpha" 0 0 1 1
+#Transform 3.375 "hud" "alpha" 1 1 1 1
+#Transform 3.5 "hud" "alpha" 0 0 1 1
+#Transform 3.625 "hud" "alpha" 1 1 1 1
+#Transform 3.75 "hud" "alpha" 0 0 1 1
+#Transform 3.875 "hud" "alpha" 1 1 1 1
+0000000000000000,
+2010101011111111,
+0000000000000000,0,0,;
+
+#Transform 0 "hud" "alpha" 0 0 1 1
+#Transform 0.125 "hud" "alpha" 1 1 1 1
+#Transform 0.25 "hud" "alpha" 0 0 1 1
+#Transform 0.375 "hud" "alpha" 1 1 1 1
+#Transform 0.5 "hud" "alpha" 0 0 1 1
+#Transform 0.625 "hud" "alpha" 1 1 1 1
+#Transform 0.75 "hud" "alpha" 0 0 1 1
+#Transform 0.875 "hud" "alpha" 1 1 1 1
+#Transform 1 "hud" "alpha" 0 0 1 1
+#Transform 1.125 "hud" "alpha" 1 1 1 1
+#Transform 1.25 "hud" "alpha" 0 0 1 1
+#Transform 1.375 "hud" "alpha" 1 1 1 1
+#Transform 1.5 "hud" "alpha" 0 0 1 1
+#Transform 1.625 "hud" "alpha" 1 1 1 1
+#Transform 1.75 "hud" "alpha" 0 0 1 1
+#Transform 1.875 "hud" "alpha" 1 1 1 1
+#Transform 2 "hud" "alpha" 0 0 1 1
+#Transform 2.125 "hud" "alpha" 1 1 1 1
+#Transform 2.25 "hud" "alpha" 0 0 1 1
+#Transform 2.375 "hud" "alpha" 1 1 1 1
+#Transform 2.5 "hud" "alpha" 0 0 1 1
+
+#Transform 2.5 "track" "ox" 1800 2500 0.25 1
+#Transform 2.75 "track" "ox" -1800 1800 0.25 1
+#Transform 3 "track" "ox" 500 -500 0.25 1
+#Transform 3.25 "track" "ox" 2400 -2400 0.25 1
+#Transform 3.5 "track" "ox" 9999 9999 60 1
+0000000000000000,
+1111111111400000,
+0000000000000000,0,0,;
+
+#ChangeText 0 "score" "?" false
+#ChangeText 1 "score" "??" false
+#ChangeText 2 "score" "???" false
+#ChangeText 3 "score" "????" false
+#ChangeText 0 "combo" "" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "?????" false
+#ChangeText 0.5 "score" "??????" false
+#ChangeText 1 "score" "???????" false
+#ChangeText 1.5 "score" "????????" false
+#ChangeText 2 "score" "?x9" false
+#ChangeText 2.25 "score" "?x10" false
+#ChangeText 2.5 "score" "?x11" false
+#ChangeText 2.75 "score" "?x12" false
+#ChangeText 3 "score" "?x14" false
+#ChangeText 3.25 "score" "?x16" false
+#ChangeText 3.5 "score" "?x18" false
+#ChangeText 3.75 "score" "?x20" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "[Kick]" false
+#ChangeText 1 "score" "[1kHz Sine Wave]" false
+#ChangeText 2 "score" "[Typing Success]" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+#ChangeText 0 "score" "KeyBox" false
+#ChangeText 0 "combo" "Thank you for playing!" false
+0000000000000000,
+0000000000000000,
+0000000000000000,0,0,;
+}
