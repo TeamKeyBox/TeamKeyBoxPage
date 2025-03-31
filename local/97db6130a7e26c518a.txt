@@ -10,7 +10,6 @@ ssmhuan/huan.kbm
 ssmKakusenu/kakusenu.kbm
 rbSwingAndDancing/swinganddancing.kbm
 ssmTutorial/tutorial.kbm
-zohka_metalepsis/metalepsis.kbm
 rbEndolphin/endolphin.kbm
 ssm5dim/5dim.kbm
 ssmRelationship/rela.kbm
