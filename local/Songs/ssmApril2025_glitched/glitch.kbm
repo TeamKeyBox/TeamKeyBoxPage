@@ -9,6 +9,7 @@ internaltag("keybox",)
 volume(1,)
 demostart(0,)
 demoend(0.1,)
+date(2025,4,1,)
 diff(4, 999, "さしみ。",){
 #HS 9
 000000000000000000000000100100100100100100100100,

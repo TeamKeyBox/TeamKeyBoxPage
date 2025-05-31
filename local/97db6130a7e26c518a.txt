@@ -27,3 +27,4 @@ ssmHexemotion/hexemotion.kbm
 ssmMRJnC/mrjnc.kbm
 ssmApril2025/april2025.kbm
 ssmApril2025_glitched/glitch.kbm
+sionoaji_rezel/rezel.kbm
