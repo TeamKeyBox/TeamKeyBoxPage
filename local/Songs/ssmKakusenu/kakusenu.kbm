@@ -6,6 +6,7 @@ offset(-0.01,)
 volume(4,)
 demostart(42.925,)
 demoend(63.15,)
+date(2024,1,6,)
 diff(3, 4, "さしみ。",){
 #HS 0.5
 #Measure 8 4
@@ -453,6 +454,7 @@ diff(1, 5, "さしみ。",){
 }
 
 diff(0, 4, "さしみ。",){
+@date(2024,7,28,)
 #Typing when
 #Typing the
 #Typing power

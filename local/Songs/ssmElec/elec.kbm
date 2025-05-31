@@ -10,7 +10,7 @@ volume(1,)
 character("meden",)
 demostart(4.6,)
 demoend(17.475,)
-diff(3, 6, "さしみ。",){
+diff(3, 5, "さしみ。",){
 #HS 0.75
 0,0,0,0,0,;
 10120411,

@@ -1,6 +1,6 @@
 meta("シンライ", "sinrai_short.wav", 0, 300,)
 title_hiragana("しんらい",)
-subtitle("さしみ。 feat.ミル(UTAU)",)
+subtitle("さしみ。 feat.ミル",)
 official(3,"ssmShinrai",null,null,null,null,)
 offset(1.59,)
 cost(200,)
@@ -8,6 +8,7 @@ videooffset(0,)
 volume(4,)
 demostart(70.375,)
 demoend(95.975,)
+date(2024,8,17,)
 diff(3, 5, "さしみ。",){
 #Measure 8 4
 #HS 0.75

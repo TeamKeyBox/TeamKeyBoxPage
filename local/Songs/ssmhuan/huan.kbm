@@ -7,6 +7,7 @@ lab(1, 3, "??? feat.???",)
 demostart(31.5,)
 demoend(43.45,)
 volume(5,)
+date(2023,8,31,)
 diff(3, 5, "さしみ。",){
 #HS 0.5
 #Measure 8 4

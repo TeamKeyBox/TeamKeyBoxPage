@@ -6,6 +6,7 @@ official(3,"sionoaji_rezel",null,null,null,null,)
 offset(-0.02,)
 still(0,)
 volume(0.97,)
+version(1,)
 character("groaden",)
 character("centraldreadbeta",)
 lang("en", "_title.song_rezel_play", "Re.played.",)
@@ -22,8 +23,6 @@ specialtitle("rezel_secClear", "clear",)
 titleget("clear", "song_rezel_secClear", 4, "",)
 demostart(106.275,)
 demoend(135.775,)
-internaltag("hidden_story",)
-storymode("clear", "main_story_17",)
 diff(4, 7, "さしみ。",){
 0,0,0,0,0,;
 

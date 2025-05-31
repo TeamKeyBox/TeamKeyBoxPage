@@ -8,6 +8,7 @@ videooffset(0,)
 volume(5,)
 demostart(32.975,)
 demoend(46.4,)
+date(2024,2,18,)
 diff(3, 5, "さしみ。",){
 #Measure 8 4
 #HS 0.5
@@ -177,6 +178,7 @@ diff(3, 5, "さしみ。",){
 
 }
 diff(2, 5, "さしみ。",){
+@date(2024,9,16,)
 #Measure 8 4
 #HS 0.5
 0,0,0,0,0,;

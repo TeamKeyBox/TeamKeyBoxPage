@@ -5,6 +5,7 @@ official(11,"ssmguildcallEndingRemix",null,null,null,null,)
 demostart(67.475,)
 demoend(82.5,)
 volume(5,)
+date(2023,8,31,)
 diff(2, 5, "さしみ。",){
 0,0,0,0,0,;
 0,0,0,0,0,;
@@ -248,6 +249,7 @@ diff(2, 5, "さしみ。",){
 }
 
 diff(0, 5, "(971)",){
+@date(2024,8,17,)
 0,0,0,0,0,;
 0,0,0,0,0,;
 0,0,0,0,0,;

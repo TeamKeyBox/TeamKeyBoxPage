@@ -2,11 +2,12 @@ meta("カレント", current_mix.wav, 0, 360,)
 title_hiragana("かれんと",)
 subtitle("さしみ。 feat.ミル",)
 official(3,"ssmCurrent",null,null,null,null,)
+limit(10,)
 offset(-0.01,)
-limit(5,)
 demostart(22.625,)
 demoend(43.975,)
-diff(3, 7, "さしみ。",){
+date(2024,12,9,)
+diff(3, 8, "さしみ。",){
 #Measure 8 4
 #HS 0.5
 0,0,0,0,0,;
