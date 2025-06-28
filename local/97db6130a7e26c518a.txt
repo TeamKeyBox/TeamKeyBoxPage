@@ -30,3 +30,4 @@ ssmApril2025_glitched/glitch.kbm
 sionoaji_rezel/rezel.kbm
 ssmLogicalier/logicalier.kbm
 subeupKaigyaku/kaigyaku.kbm
+ameagariTypeD/typeD.kbm

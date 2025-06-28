@@ -1,0 +1,14 @@
+@StaffKeyBoxer 
+# KeyBox_Beta_16のアップデート
+# 追加
+・KBMに記録されている収録日時より前のタイミングではその楽曲をプレイできないように変更
+・`searchlock`タグを追加
+
+# 楽曲/譜面追加のお知らせ
+## 追加楽曲
+`Type-D Cryptalysant` / AmeAgari_風斗
+-# 公募楽曲
+## 譜面追加
+イドラ @[Normal]  @[Hard]
+## その他
+いくつかの楽曲に称号を追加しました。
