@@ -35,6 +35,7 @@ lang("en", "_title.song_typeD_playTate", "Tatere-N Cryptalysant",)
 lang("jp", "_title.song_typeD_playTate", "Tatere-N Cryptalysant",)
 specialtitle("typeD_playTate", "play",)
 titleget("play", "song_typeD_playTate", 5, "tateren",)
+date(2025,6,28,)
 diff(3, 6, "さしみ。",){
 #HS 0.5
 #Measure 8 4
