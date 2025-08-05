@@ -24,6 +24,7 @@ titleget("clear", "song_rezel_secClear", 4, "",)
 demostart(106.275,)
 demoend(135.775,)
 date(2025,5,31,)
+metatag("artworks", false, "さしみ。",)
 diff(4, 7, "さしみ。",){
 0,0,0,0,0,;
 

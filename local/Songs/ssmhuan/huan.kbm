@@ -8,6 +8,7 @@ demostart(31.5,)
 demoend(43.45,)
 volume(5,)
 date(2023,8,31,)
+metatag("artworks", false, "さしみ。",)
 diff(3, 5, "さしみ。",){
 #HS 0.5
 #Measure 8 4

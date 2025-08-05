@@ -11,6 +11,7 @@ internaltag("keybox",)
 demostart(0,)
 demoend(0.5,)
 date(2025,4,1,)
+metatag("artworks", false, "さしみ。",)
 diff(3, 7, "さしみ。",){
 #Transform 0 "hud" "alpha" 1 0 1 1
 #Transform 1 "hud" "alpha" 0 0 16 1

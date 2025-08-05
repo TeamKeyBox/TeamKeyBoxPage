@@ -6,6 +6,7 @@ offset(-0.01,)
 demostart(41.525,)
 demoend(59.575,)
 date(2024,9,16,)
+metatag("artworks", false, "さしみ。",)
 diff(3, 5, "さしみ。",){
 0,0,0,0,0,;
 100000000000000000000000,

@@ -36,6 +36,7 @@ lang("jp", "_title.song_eyesight_easyFC", "視界の影が 消えない消えな
 specialtitle("eyesight_easyFC", "fullcombo",)
 titleget("fc", "song_eyesight_easyFC", 0, "",)
 date(2025,7,6,)
+metatag("artworks", false, "melonade",)
 diff(3, 6, "さしみ。",){
 0,01,0,0,0,;
 0000100000100000,

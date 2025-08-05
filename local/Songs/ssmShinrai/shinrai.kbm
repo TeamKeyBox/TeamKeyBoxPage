@@ -9,6 +9,11 @@ volume(4,)
 demostart(70.375,)
 demoend(95.975,)
 date(2024,8,17,)
+lang("en", "_title.song_shinrai_exS", "One-Click-Arrows",)
+lang("jp", "_title.song_shinrai_exS", "ワンクリック矢印",)
+specialtitle("shinrai_exS", "rank_s",)
+titleget("S", "song_shinrai_exS", 3, "",)
+metatag("artworks", false, "さしみ。",)
 diff(3, 5, "さしみ。",){
 #Measure 8 4
 #HS 0.75

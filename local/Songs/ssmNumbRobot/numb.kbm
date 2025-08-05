@@ -6,6 +6,14 @@ offset(-0.01,)
 demostart(36.725,)
 demoend(49.575,)
 date(2024,7,28,)
+lang("en", "_title.song_numbrobo_exS", "Though It Is Impossible For Prototype",)
+lang("jp", "_title.song_numbrobo_exS", "プロトタイプには無理だけど",)
+specialtitle("numbrobo_exS", "rank_s",)
+titleget("S", "song_numbrobo_exS", 3, "",)
+lang("en", "_title.song_numbrobo_exFC", "Numb KeyBoxer",)
+lang("jp", "_title.song_numbrobo_exFC", "麻痺したKeyBoxer",)
+specialtitle("numbrobo_exFC", "fullcombo",)
+titleget("fc", "song_numbrobo_exFC", 3, "",)
 diff(1, 6, "さしみ。",){
 0,0,0,0,0,;
 1111,0,0,0,0,;

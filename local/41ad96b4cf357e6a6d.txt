@@ -24,3 +24,4 @@
 23=Beta_16
 24=Beta_16_fixed_1
 25=Beta_17
+26=Beta_18

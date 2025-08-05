@@ -32,3 +32,4 @@ ssmLogicalier/logicalier.kbm
 subeupKaigyaku/kaigyaku.kbm
 ameagariTypeD/typeD.kbm
 xaneiroEyesight/eyesight.kbm
+ssmTutorial2/tutorial.kbm

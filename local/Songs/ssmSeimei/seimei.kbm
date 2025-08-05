@@ -8,6 +8,7 @@ version(1,)
 demostart(45.6,)
 demoend(64.5,)
 date(2024,12,9,)
+metatag("artworks", false, "さしみ。",)
 diff(3, 7, "さしみ。",){
 0,0,0,0,0,;
 0000100000100000,

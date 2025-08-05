@@ -6,6 +6,7 @@ demostart(9.35,)
 demoend(24.35,)
 volume(5,)
 date(2023,1,5,)
+metatag("artworks", false, "さしみ。",)
 diff(1, 1, "さしみ。",){
 0,0,0,0,0,;
 10000000,01000000,00100000,00,00,;

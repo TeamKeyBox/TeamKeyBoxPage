@@ -8,6 +8,7 @@ volume(4,)
 demostart(36.425,)
 demoend(53.575,)
 date(2024,3,31,)
+metatag("artworks", false, "さしみ。",)
 diff(3, 5, "さしみ。",){
 0,0,0,0,0,;
 0001,000000000001,0001,0,0,;
