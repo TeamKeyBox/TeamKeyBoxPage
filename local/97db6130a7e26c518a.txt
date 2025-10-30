@@ -34,3 +34,5 @@ ameagariTypeD/typeD.kbm
 xaneiroEyesight/eyesight.kbm
 ssmTutorial2/tutorial.kbm
 ssmVenom/venom.kbm
+ssmCold/cold.kbm
+ssmMisleader/misleader.kbm

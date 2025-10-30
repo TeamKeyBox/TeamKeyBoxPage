@@ -1,5 +1,5 @@
 @StaffKeyBoxer 
-# KeyBox_Beta_18のアップデート
+# KeyBox_Beta_19のアップデート
 # 追加
 ・プレイヤーのリプレイの同時再生機能を追加
 -# ランキング画面で「Replay」ボタンを押すとできます。

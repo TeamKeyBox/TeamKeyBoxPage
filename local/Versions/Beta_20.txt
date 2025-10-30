@@ -1,0 +1,31 @@
+<b size=40>KeyBox_Beta_20のアップデート</b>
+<b size=35> 追加</b>
+・あるコンテンツ用のパートナーを追加
+・リプレイを自動保存する設定項目を追加
+
+<b size=35> 変更</b>
+・テキスト表示を一部、リッチテキストに変更。それに伴い、UIが一部変更
+
+<b size=35> 修正</b>
+・保存したリプレイが全て自己ベスト時のリプレイ/スコアになってしまう問題を修正
+・ローカルランキングに保存したリプレイが表示されない問題を修正
+・LagBackした際に再び直後に来るタイピングの噴き出しが表示されない問題を修正
+
+<b size=35> 削除</b>
+・LabMusicを削除 (一時的な処置)
+
+<b size=40> 楽曲/譜面追加のお知らせ</b>
+<b size=35> 追加楽曲</b>
+10月31日 (金) 22:00 よりプレイ可能！
+<play song="ssmCold" color="0,255,255,255">コールド / さしみ。 feat.カイ (& ライ & ミル)</play>
+<span color="128,128,128,255">Boxil500で購入可能</span>
+<play song="ssmMisleader" color="0,255,255,255">Misleader / さしみ。</play>
+<span color="128,128,128,255">Boxil500で購入可能</span>
+
+<b size=35> 譜面追加</b>
+<play song="ssmLogicalier" color="0,255,255,255">ロジカライアー <span color="255,255,0,255">@[Hard]</span></play>
+
+<b size=35> その他</b>
+LabMusicの削除に伴い、該当する楽曲はショップで購入できるようにしました。
+・<play song="ssmRelationship" color="0,255,255,255">Relationship Adjustment</play>
+・<play song="ssmHuan" color="0,255,255,255">不安ノ命ト選択ヲ</play>
