@@ -17,7 +17,7 @@
 <b size=40> 楽曲/譜面追加のお知らせ</>
 <b size=35> 追加楽曲</>
 10月31日 (金) 22:00 よりプレイ可能！
-<play song="ssmCold" color="0,255,255,255">コールド / さしみ。 feat.カイ (& ライ & ミル)</>
+<play song="ssmCold" color="0,255,255,255">コールド / さしみ。 feat.カイ (&amp; ライ &amp; ミル)</>
 <span color="128,128,128,255">Boxil500で購入可能</>
 <play song="ssmMisleader" color="0,255,255,255">Misleader / さしみ。</>
 <span color="128,128,128,255">Boxil500で購入可能</>
