@@ -3,7 +3,6 @@ title_hiragana("うぃなーずねばーくいっと",)
 subtitle("ArLgon",)
 official(3,"arlgonWinnersNeverQuit",null,null,null,null,)
 offset(-0.01,)
-still(28,)
 volume(1,)
 character("groaden",)
 demostart(30.55,)
@@ -17,6 +16,7 @@ lang("jp", "_title.song_wnq_playTate", "Winners must 縦連!",)
 specialtitle("wnq_playTate", "play",)
 titleget("play", "song_wnq_playTate", 5, "tateren",)
 metatag("artworks", false, "ツナさん",)
+date(2025, 12, 15,)
 diff(3, 7, "さしみ。",){
 0,0,0,0,0,;
 1000000000000000,

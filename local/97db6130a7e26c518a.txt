@@ -37,3 +37,4 @@ ssmVenom/venom.kbm
 ssmCold/cold.kbm
 ssmMisleader/misleader.kbm
 arlgonWinnersNeverQuit/wnq.kbm
+xaneiroIwanai/iwanai.kbm
