@@ -3,8 +3,9 @@ title_hiragana("ろじからいあー",)
 subtitle("さしみ。 feat.カイ",)
 official(3,"ssmLogicalier",null,null,null,null,)
 offset(-0.01,)
-volume(2,)
+volume(0.97,)
 version(1,)
+skill(1,)
 character("amprel",)
 character("reklan",)
 character("centraldreadbeta",)
@@ -456,7 +457,7 @@ diff(3, 6, "さしみ。",){
 
 
 
-diff(2, 6, "さしみ。",){
+diff(2, 7, "さしみ。",){
 0,0,0,0,0,;
 100000000001,
 000000000000,

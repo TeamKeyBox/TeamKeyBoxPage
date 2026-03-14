@@ -5,10 +5,11 @@ official(3,"ssmRelationship",null,null,null,null,)
 cost(500,)
 offset(1.59,)
 videooffset(0,)
-volume(5,)
+volume(2.5,)
 demostart(32.975,)
 demoend(46.4,)
 date(2024,2,18,)
+skill(7,)
 metatag("artworks", false, "さしみ。",)
 diff(3, 5, "さしみ。",){
 #Measure 8 4

@@ -4,10 +4,11 @@ subtitle("さしみ。",)
 official(11,"ssm5dim","5dim",3,-1,"en=\"A Miracle At Five\";jp=\"5時の奇跡\";",)
 internaltag("keybox",)
 offset(0,)
-volume(2,)
+volume(0.98,)
 demostart(50.875,)
 demoend(60.5,)
 date(2024,2,18,)
+skill(8,)
 diff(4, 6, "さしみ。",){
 #Measure 3 4
 0,0,0,0,0,;
@@ -348,7 +349,7 @@ diff(3, 4, "さしみ。",){
 001,010,100,0,0,;
 015,100,000,0,0,;
 }
-diff(2, 5, "さしみ。",){
+diff(2, 4, "さしみ。",){
 @date(2024,9,16,)
 #Measure 3 4
 0,0,0,0,0,;

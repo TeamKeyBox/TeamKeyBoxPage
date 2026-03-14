@@ -4,7 +4,8 @@ subtitle("さしみ。",)
 official(3,"ssmGuildCall","guildcall",1,-1,"en=\"Call from a guild\";jp=\"Guild's Call\";",)
 demostart(9.35,)
 demoend(24.35,)
-volume(5,)
+volume(2.5,)
+skill(6,)
 date(2023,1,5,)
 metatag("artworks", false, "さしみ。",)
 diff(1, 1, "さしみ。",){
@@ -73,7 +74,7 @@ diff(0, 1, "さしみ。",){
 #GogoEnd
 2004,0,0,00,00,;
 }
-diff(2, 3, "さしみ。",){
+diff(2, 2, "さしみ。",){
 0,0,0,0,0,;
 10010000,0010000100000000,00100000,00,00,;
 10010000,01000000,0000100100001000,00,00,;

@@ -1,0 +1,37 @@
+<b size=40>KeyBox_Beta_22のアップデート</>
+<b size=35> 追加</>
+・タイトル画面にストーリーモードのボタンを追加
+・「ひなん」コラボストーリーを追加
+・「反転」オプションを追加
+・「音源を後から読み込む」設定項目を追加
+・ローディング画面に進捗バーを追加
+・ストーリーモード関係のフィルターを追加
+・「スコア獲得率」並び替えを追加
+
+<b size=35> 変更</>
+・スコア獲得率の計算方法を変更、これにより、スコアランクも変動
+・テキストの表示方法を変更
+
+<b size=35> 修正</>
+・ラグや処理の負荷を軽減
+
+<b size=40> 楽曲/譜面追加のお知らせ</>
+<b size=35> 追加楽曲</>
+3月15日 (日) よりプレイ可能！
+<play song="ssmHinan" color="0,255,255,255">ひなん / さしみ。 feat.重音テト (and more)</>
+<span color="128,128,128,255">コラボストーリークリアで獲得</>
+<play song="lethalixJustadaydream" color="0,255,255,255">Just A Daydream / Lethalix</>
+<span color="128,128,128,255">コラボストーリークリアで獲得</>
+<play song="meganekoSpaceMagic" color="0,255,255,255">Space Magic / meganeko</>
+<span color="128,128,128,255">コラボストーリークリアで獲得</>
+<play song="ssmOodles" color="0,255,255,255">ウードゥル / さしみ。 feat.カイ</>
+<span color="128,128,128,255">コラボストーリークリアで獲得</>
+
+<b size=35> 譜面追加</>
+<play song="rbendolphin" color="0,255,255,255">Endolphin <span color="0,255,0,255">@[Easy]</><span color="128,255,0,255">@[Normal]</></>
+
+<b size=35> その他</>
+全楽曲の音量調整を行いました。また、その際にいくつかの楽曲の音源を差し替えました。
+・<play song="ssmIdola" color="0,255,255,255">イドラ</>
+・<play song="ssmNumbRobot" color="0,255,255,255">麻痺したロボット</>
+・チュートリアル

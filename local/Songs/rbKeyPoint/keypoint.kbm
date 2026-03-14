@@ -3,9 +3,10 @@ title_hiragana("きーぽいんと",)
 subtitle("Ruby",)
 official(3,"rbKeypoint","keypoint",1,-1,"en=\"Key Pointer Exception\";jp=\"Key Pointer Exception\";",)
 internaltag("keybox",)
-volume(5,)
+volume(2.5,)
 demostart(65.35,)
 demoend(90.425,)
+skill(10,)
 date(2023,8,31,)
 metatag("artworks", false, "さしみ。",)
 diff(0, 5, "さしみ。",){
@@ -159,7 +160,7 @@ diff(1, 5, "さしみ。",){
 10010001,0000100000010000,01001000,0,0,;
 0,0,0,0,0,;
 }
-diff(2, 4, "さしみ。",){
+diff(2, 3, "さしみ。",){
 #Measure 4 4
 #HS 1
 1001001001001000,0,0,0,0,;

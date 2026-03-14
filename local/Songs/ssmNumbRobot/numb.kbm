@@ -3,6 +3,9 @@ title_hiragana("まひしたろぼっと",)
 subtitle("さしみ。 feat.唄音ウタ",)
 official(3,"ssmNumbRobot",null,null,null,null,)
 offset(-0.01,)
+volume(6,)
+version(1,)
+skill(6,)
 demostart(36.725,)
 demoend(49.575,)
 date(2024,7,28,)
@@ -218,7 +221,7 @@ diff(1, 6, "さしみ。",){
 1000100010002111,0,01010100,0,0,;
 4,0,0,0,0,;
 }
-diff(2, 5, "さしみ。",){
+diff(2, 6, "さしみ。",){
 @date(2024,9,16,)
 0,0,0,0,0,;
 1111,0,0,0,0,;

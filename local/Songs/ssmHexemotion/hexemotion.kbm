@@ -6,10 +6,11 @@ internaltag("keybox",)
 internaltag("hidden_story",)
 storymode("clear", "main_story_27",)
 offset(-0.01,)
-volume(1,)
+volume(0.98,)
 character("centraldreadbeta",)
 demostart(43.175,)
 demoend(55.975,)
+skill(5,)
 diff(3, 5, "さしみ。",){
 0,0,0,0,0,;
 10000000,07777777,10000000,2,2,;

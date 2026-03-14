@@ -10,7 +10,8 @@ title_mistake_hiragana("たいぷでーくりぷたらいざんと",)
 subtitle("AmeAgari_風斗",)
 official(11,"ameagariTypeD",null,null,null,null,)
 offset(-0.02,)
-volume(4,)
+volume(2,)
+skill(0,)
 character("centraldreadbeta",)
 internaltag("keybox",)
 demostart(2.7,)
@@ -344,7 +345,7 @@ diff(3, 6, "さしみ。",){
 
 
 
-diff(2, 6, "さしみ。",){
+diff(2, 5, "さしみ。",){
 #HS 0.5
 #Measure 8 4
 0,0,0,0,0,;

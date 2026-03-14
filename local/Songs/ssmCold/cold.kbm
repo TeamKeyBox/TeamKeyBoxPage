@@ -3,10 +3,11 @@ title_hiragana("こーるど",)
 subtitle("さしみ。 feat.カイ (& ライ & ミル)",)
 official(3,"ssmCold",null,null,null,null,)
 offset(-0.01,)
-volume(1,)
+volume(0.95,)
 demostart(83.25,)
 demoend(103.025,)
 cost(500,)
+skill(0,)
 date(2025,10,31,22,)
 diff(3, 8, "さしみ。",){
 0,0,0,0,0,;

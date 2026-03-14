@@ -3,9 +3,12 @@ title_hiragana("いわないおやくそく",)
 subtitle("d.j.ァネイロ feat.flower",)
 offset(0.1,)
 official(11,"xaneiroIwanai",null,null,null,null,)
-volume(1,)
+volume(0.985,)
+skill(11,)
 demostart(51.525,)
 videooffset(0.1,)
+character("amprel",)
+character("reklan",)
 lang("en", "_title.song_iwanai_exA", "K__ Boxer",)
 lang("jp", "_title.song_iwanai_exA", "K__ Boxer",)
 specialtitle("iwanai_exA", "rank_a",)
@@ -354,7 +357,7 @@ diff(3, 7, "さしみ。",){
 
 
 
-diff(2, 7, "さしみ。",){
+diff(2, 6, "さしみ。",){
 000000000000000000000000,
 000000000000000000000000,
 000000000000000000000000,0,0,;

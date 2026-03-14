@@ -3,10 +3,11 @@ title_hiragana("じえんどあんどざびぎにんぐ",)
 subtitle("Ruby",)
 official(11,"rbteatb",null,null,null,null,)
 offset(0.32,)
-volume(6,)
+volume(4.7,)
 demostart(48.425,)
 demoend(64.475,)
 date(2023,8,31,)
+skill(15,)
 diff(2, 4, "さしみ。",){
 01,0,00000111,0,0,;
 #GogoStart
@@ -304,3 +305,4 @@ diff(1, 5, "さしみ。",){
 #GogoEnd
 0,0,0,0,0,;
 }
+

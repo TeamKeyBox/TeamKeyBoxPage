@@ -2,13 +2,11 @@ meta("VENOM Of IDentity", venomofidentity.wav, 0, 180,)
 title_hiragana("ヴぇのむおぶあいでんてぃてぃ",)
 subtitle("さしみ。",)
 official(3,"ssmVenom",null,null,null,null,)
-internaltag("keybox",)
-internaltag("hidden_story",)
-storymode("clear", "main_story_17",)
 offset(-0.01,)
-volume(2,)
+volume(1,)
 demostart(56.770,)
 demoend(73.466,)
+skill(0,)
 diff(4, 8, "さしみ。",){
 0,0,0,0,0,;
 100000000000100000000100000000100000000000001000,
