@@ -25,13 +25,14 @@
 <play song="meganekoSpaceMagic" color="0,255,255,255">Space Magic / meganeko</>
 <span color="128,128,128,255">コラボストーリークリアで獲得</>
 <play song="ssmOodles" color="0,255,255,255">ウードゥル / さしみ。 feat.カイ</>
-<span color="128,128,128,255">コラボストーリークリアで獲得</>
+<span color="128,128,128,255">5回限定</>
 
 <b size=35> 譜面追加</>
 <play song="rbendolphin" color="0,255,255,255">Endolphin <span color="0,255,0,255">@[Easy]</><span color="128,255,0,255">@[Normal]</></>
 
 <b size=35> その他</>
 全楽曲の音量調整を行いました。また、その際にいくつかの楽曲の音源を差し替えました。
+不具合により音源のキャッシュが更新できていません。データフォルダ内のsongcacheフォルダを削除し、ゲームを再起動してください。
 ・<play song="ssmIdola" color="0,255,255,255">イドラ</>
 ・<play song="ssmNumbRobot" color="0,255,255,255">麻痺したロボット</>
 ・チュートリアル
