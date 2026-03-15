@@ -11,7 +11,6 @@ character("centraldreadbeta",)
 license("cc_by_nc",)
 demostart(56.875,)
 demoend(84.425,)
-cost(500,)
 url("https://www.newgrounds.com/audio/listen/830459",)
 diff(3, 5, "さしみ。",){
 0,0,0,0,0,;
