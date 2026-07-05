@@ -40,7 +40,7 @@ specialtitle("eyesight_easyFC", "fullcombo",)
 titleget("fc", "song_eyesight_easyFC", 0, "",)
 date(2025,7,6,)
 metatag("artworks", false, "melonade",)
-diff(3, 6, "さしみ。",){
+diff(3, 7, "さしみ。",){
 0,01,0,0,0,;
 0000100000100000,
 0000000000000000,

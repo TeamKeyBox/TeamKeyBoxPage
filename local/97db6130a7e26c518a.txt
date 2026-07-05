@@ -43,3 +43,6 @@ meganekoSpaceMagic/spacemagic.kbm
 ssmCorruptedMemory/memory.kbm
 ssmHinan/hinan.kbm
 ssmOodles/oodles.kbm
+ssmGroup/group.kbm
+hazeneko_sinime/sinime.kbm
+xaneiroIchiyaku/ichiyaku.kbm

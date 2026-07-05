@@ -9,7 +9,7 @@ storymode("isvalue", "hinann_alt", "1",)
 internaltag("keybox",)
 demostart(32.525,)
 demoend(47.975,)
-diff(3, 8, "さしみ。",){
+diff(3, 9, "さしみ。",){
 0,0,0,0,0,;
 
 3000003000003000,

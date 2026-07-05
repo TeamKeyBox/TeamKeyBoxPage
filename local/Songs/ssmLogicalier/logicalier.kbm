@@ -12,7 +12,7 @@ character("centraldreadbeta",)
 demostart(37.675,)
 demoend(56.0,)
 date(2025,10,31,22,)
-diff(3, 6, "さしみ。",){
+diff(3, 7, "さしみ。",){
 0,0,0,0,0,;
 100000000001,
 000000000000,

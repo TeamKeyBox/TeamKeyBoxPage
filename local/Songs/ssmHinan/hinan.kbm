@@ -8,6 +8,7 @@ skill(0,)
 storymode("clear", "hinann_story_3",)
 demostart(71.150,)
 demoend(94.450,)
+date(2026,3,15,)
 diff(3, 6, "さしみ。",){
 0,0,0,0,0,;
 

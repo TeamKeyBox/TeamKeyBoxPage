@@ -15,7 +15,7 @@ lang("jp", "_title.song_shinrai_exS", "ワンクリック矢印",)
 specialtitle("shinrai_exS", "rank_s",)
 titleget("S", "song_shinrai_exS", 3, "",)
 metatag("artworks", false, "さしみ。",)
-diff(3, 5, "さしみ。",){
+diff(3, 6, "さしみ。",){
 #Measure 8 4
 #HS 0.75
 1111,0000000000000000,2000000000000000,0,0,;

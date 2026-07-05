@@ -11,7 +11,7 @@ demoend(46.4,)
 date(2024,2,18,)
 skill(7,)
 metatag("artworks", false, "さしみ。",)
-diff(3, 5, "さしみ。",){
+diff(3, 6, "さしみ。",){
 #Measure 8 4
 #HS 0.5
 0,0,0,0,0,;

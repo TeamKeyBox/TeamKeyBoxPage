@@ -10,6 +10,7 @@ license("cc_by_nc_sa",)
 demostart(67.75,)
 demoend(88.7,)
 url("https://www.newgrounds.com/audio/listen/800382",)
+date(2026,3,15,)
 diff(3, 6, "さしみ。",){
 0000000000000000,
 0000000010001000,
