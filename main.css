@@ -1,7 +1,7 @@
 * {
     color: white;
     font-size: larger;
-    font-family: 'PixelMplus10', Arial;
+    font-family: 'PixelMplus12', Arial;
     word-spacing: 16px;
 }
 
@@ -79,7 +79,7 @@ table th {
     transition-duration: 0.3s;
     transition-timing-function: cubic-bezier(1, 0, 0, 1);
     transform: translateY(-70px);
-    grid: 2em / auto-flow calc(1 / 4 * 100%);
+    grid: 2em / auto-flow calc(1 / 3 * 100%);
     display: grid;
 }
 
@@ -144,6 +144,16 @@ table th {
     }
 }
 
+@keyframes maintransion_center {
+    from {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
 @keyframes rotatransion {
     from {
         opacity: 0;
@@ -183,6 +193,10 @@ table th {
 
 .transion_main.right_sort {
     animation-name: maintransion_reversed;
+}
+
+.transion_main.center_sort {
+    animation-name: maintransion_center;
 }
 
 .transion_clippingHorizontal {
@@ -306,6 +320,13 @@ a:hover {
     text-align: right;
     position: absolute;
     margin-left: auto;
+}
+
+.center_sort:not(.background_box > img + img) {
+    text-align: center;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .thumbnail {
